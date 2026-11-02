@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101516">
+  <meta name="description" content="海斗玩法思路图鉴。按英雄、海克斯、装备检索，查看原片截图与对应时间点。B 站与小红书视频的图文拆解与原片参考。">
+  <title>太农思路库 · 玩法随时调取</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23181f20'/%3E%3Cpath d='M15 18h34v9H37v23H27V27H15z' fill='%23c8f27c'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="data.js"></script><script defer src="catalog.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="#" aria-label="太农思路库首页"><span class="brand-mark">T<span>↗</span></span><span>太农思路库<small>TALON PLAYBOOK</small></span></a>
+    <div class="side-label">我的玩法资料</div>
+    <nav aria-label="主导航">
+      <button class="nav-item active" data-view="ideas"><span>▦</span>思路图鉴<span class="count">117</span></button>
+      <button class="nav-item" data-view="videos"><span>▷</span>视频目录<span class="count">32</span></button>
+      <button class="nav-item" data-view="saved"><span>☆</span>我的收藏<span id="saved-count" class="count">00</span></button>
+    </nav>
+    <div class="side-label hero-label">快速定位</div>
+    <button class="hero-select" data-action="all"><img src="assets/pantheon.jpg" alt=""><span>全部英雄<small>英雄 / 海克斯 / 装备</small></span><span class="selected-dot"></span></button>
+    <div class="side-bottom"><span class="phase-tag"><i></i> 全部视频图鉴</span><p>按英雄查玩法，<br>按海克斯找搭配。</p><a href="https://space.bilibili.com/434873769/upload/video" target="_blank" rel="noopener noreferrer">太农712 的 B 站空间 ↗</a></div>
+  </aside>
+
+  <main>
+    <header class="topbar"><div><span class="crumb">PLAYBOOK</span><span class="slash">/</span><span id="breadcrumb">思路图鉴</span></div><div class="top-right"><span class="period">收录范围 10.13 — 11.02</span><button id="help-btn" class="icon-btn" aria-label="查看使用说明">?</button></div></header>
+    <section class="hero" aria-labelledby="hero-title">
+      <img class="hero-art" src="assets/pantheon.jpg" alt="不屈之枪潘森官方原画">
+      <div class="hero-shade"></div>
+      <div class="hero-copy"><div class="eyebrow"><span>B 站 × 小红书</span><span class="eyebrow-line"></span>视频玩法笔记 · 2026.10—11</div><h1 id="hero-title">让好思路，<br>随时<span>上场。</span></h1><p>英雄、海克斯、装备，一搜就到。<br>每一个思路，都能回到原视频。</p><a class="hero-cta" href="https://space.bilibili.com/434873769/upload/video" target="_blank" rel="noopener noreferrer"><span>▷</span> 查看博主视频 <span>↗</span></a></div>
+      <div class="hero-caption"><span class="small-caps">THE COLLECTION</span><strong>思路图鉴</strong><span>32 组视频 · 持续可检索</span><div><span>英雄</span><span>海克斯</span><span>装备</span></div></div>
+      <div class="hero-bottom"><span class="pill">海克斯大乱斗</span><span>2026.10.13 — 11.02</span><span>32 组视频</span><span class="original-note">多位创作者 · 非官方整理</span></div>
+    </section>
+
+    <section class="workspace" aria-label="玩法检索">
+      <div class="section-head"><div><div class="eyebrow muted">YOUR NEXT PLAY</div><h2 id="section-title">思路图鉴 <span id="view-count">117</span></h2></div><button class="text-btn" id="catalog-toggle">查看全部视频 <span>↗</span></button></div>
+      <div class="search-box"><span class="search-symbol">⌕</span><label class="sr-only" for="search">搜索英雄、海克斯、装备或玩法</label><input id="search" type="search" autocomplete="off" placeholder="搜索英雄、海克斯、装备或玩法…"><button id="clear-search" aria-label="清除搜索" hidden>×</button><kbd>⌘ K</kbd></div>
+      <div class="search-hints"><span>试试搜索</span><button data-query="潘森">潘森</button><button data-query="大法师">大法师</button><button data-query="虚幻武器">虚幻武器</button><button data-query="装甲冲击">装甲冲击</button></div>
+      <div class="selection-bar"><label>英雄 <select id="hero-filter" aria-label="按英雄筛选"><option value="全部">全部英雄</option></select></label><label>视频 <select id="video-filter" aria-label="按视频筛选"><option value="全部">全部视频</option></select></label><label>平台 <select id="platform-filter" aria-label="按平台筛选"><option value="全部">全部平台</option><option value="B站">B站</option><option value="小红书">小红书</option></select></label><button id="reset-filters">重置筛选 ↺</button></div>
+      <div class="filter-bar"><div class="filters" role="group" aria-label="思路分类"><button class="filter active" data-category="全部">全部思路 <span>117</span></button><button class="filter" data-category="机制">核心机制</button><button class="filter" data-category="海克斯">海克斯选择</button><button class="filter" data-category="出装">装备路线</button><button class="filter" data-category="操作">实战操作</button></div><span id="result-caption">32 组视频 · 117 个拆解</span></div>
+      <div id="results" class="idea-grid" aria-live="polite"></div>
+      <div class="sample-note"><span>✦</span><p><strong>每个思路均附原片截图与时间参考。</strong>海克斯评级、机制与数值按原视频归纳；视频涉及不同日期与版本，未做当前版本实测。</p></div>
+    </section>
+    <footer><span>太农思路库 <span class="footer-dot">·</span> 从灵感到实战</span><button id="sources-btn">资料来源与整理说明 ↗</button></footer>
+  </main>
+
+  <dialog id="detail-dialog" class="detail-dialog" aria-label="思路详情"><div id="detail-content"></div></dialog>
+  <dialog id="image-dialog" class="image-dialog" aria-label="原片截图放大"><button class="close-btn" id="close-image" aria-label="关闭截图">×</button><img id="enlarged-image" alt="原片完整截图"><p id="image-caption"></p></dialog>
+  <dialog id="info-dialog" class="info-dialog" aria-label="使用说明"><button class="close-btn" id="close-info" aria-label="关闭说明">×</button><div id="info-content"></div></dialog>
+  <div id="toast" role="status"></div>
+</body></html>
