@@ -1,4 +1,4 @@
-/* 归纳自各原片配音、烧录字幕及画面；保留初版思路 ID 兼容收藏。 */
+/* 归纳自各原片配音、烧录字幕及画面；保留既有思路 ID 兼容收藏。 */
 window.IDEAS = [
   {
     "id": "mechanism",
@@ -6502,6 +6502,3312 @@ window.IDEAS = [
         "label": "01:13 · 白银",
         "time": 73,
         "url": "https://www.xiaohongshu.com/explore/6ad36cb4000000001803a64f?xsec_token=ABMI5ntsGl9TYl_EsVHVRAUFJa05mYcdKcfTrPzChtCWw=&xsec_source=pc_feed"
+      }
+    ]
+  },
+  {
+    "id": "BV1ts4K6eEX7-plasma",
+    "bvid": "BV1ts4K6eEX7",
+    "hero": "小鱼人",
+    "title": "将他们放倒小鱼人：多种伤害来源叠印记",
+    "summary": "普攻、W 主动与 W 被动共同叠层，再把攻速和技能急速接到已损生命值爆发。",
+    "category": "机制",
+    "tags": [
+      "小鱼人",
+      "菲兹",
+      "Fizz",
+      "将他们放倒",
+      "将他们放倒倒倒",
+      "将它们放倒",
+      "W",
+      "印记",
+      "已损生命值",
+      "攻速",
+      "技能急速"
+    ],
+    "time": 13,
+    "timeLabel": "00:13–00:27",
+    "imageTime": 15,
+    "sections": [
+      {
+        "heading": "印记与引爆",
+        "text": "原片卡面名为「将他们放倒倒倒」，标题与口播简称「将他们放倒」。普攻和技能命中会造成额外魔法伤害，并给敌方英雄叠印记；详细说明显示印记持续五秒。对拥有五层效果的敌人造成伤害时，会消耗这些层数，造成已损生命值魔法伤害，并按造成的伤害回复生命值。"
+      },
+      {
+        "heading": "为什么小鱼人容易接上",
+        "text": "作者把小鱼人 W 的不同伤害来源分别拆开：普攻、开启 W 后的额外伤害，以及 W 被动持续伤害都可参与叠层，因此不能把印记简单理解为需要打五次普通攻击。"
+      },
+      {
+        "heading": "属性怎样变成伤害",
+        "text": "原片说明引爆伤害受到攻速和技能急速加成。00:21 的面板同时展示已损生命值伤害与回血，属于该局属性下的显示结果；这里保留属性联动，不把面板百分比写成固定基础数值。"
+      }
+    ],
+    "references": [
+      {
+        "label": "强化说明卡与普攻、技能叠层",
+        "time": 13,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=13"
+      },
+      {
+        "label": "本局已损生命值伤害及回血面板",
+        "time": 21,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=21"
+      },
+      {
+        "label": "W 各伤害来源开始拆解",
+        "time": 27,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=27"
+      }
+    ],
+    "image": "assets/frames/BV1ts4K6eEX7-plasma.webp",
+    "fullImage": "assets/frames/BV1ts4K6eEX7-plasma.jpg"
+  },
+  {
+    "id": "BV1ts4K6eEX7-w-stack",
+    "bvid": "BV1ts4K6eEX7",
+    "hero": "小鱼人",
+    "title": "开 W 接 A 或 Q：黄昏黎明加快引爆",
+    "summary": "原片将开 W 后的一次普攻拆为三层，配黄昏黎明达到四层，再接普攻完成引爆。",
+    "category": "操作",
+    "tags": [
+      "小鱼人",
+      "菲兹",
+      "Fizz",
+      "将他们放倒",
+      "将他们放倒倒倒",
+      "黄昏黎明",
+      "黄昏与黎明",
+      "WA",
+      "WQ",
+      "EWA",
+      "攻击特效"
+    ],
+    "time": 27,
+    "timeLabel": "00:27–01:05",
+    "imageTime": 32,
+    "sections": [
+      {
+        "heading": "先分清三种来源",
+        "items": [
+          "开启 W 后接普攻：作者将普攻、W 主动附伤、W 被动伤害分作三层印记。",
+          "再搭配原片简称「黄昏黎明」的装备，作者展示一次开 W 普攻可达到四层。",
+          "没有开启主动 W 时，普通攻击与 W 被动仍可增加两层；这是原片给出的对照。"
+        ]
+      },
+      {
+        "heading": "Q 也能接入",
+        "text": "作者说明，开启 W 后的 Q 同样能附带攻击特效；配合 W 被动与黄昏黎明也能叠出四层，再补一次普攻即可引爆。这些层数以原片所述装备和技能状态为前提。"
+      },
+      {
+        "heading": "实战片段怎样看",
+        "text": "00:50 起先用 E 接近落点，再开 W 接普攻引爆；随后展示 EWA 击杀满血诺提勒斯等场景。将其作为作者该局成型后的连招示例，原片没有给出所有阵容通用的固定斩杀线。"
+      }
+    ],
+    "references": [
+      {
+        "label": "W 主动、被动与普攻的三层示意",
+        "time": 28,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=28"
+      },
+      {
+        "label": "黄昏黎明与未开 W 的层数对照",
+        "time": 33,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=33"
+      },
+      {
+        "label": "开启 W 后 Q 接特效，再接普攻",
+        "time": 40,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=40"
+      },
+      {
+        "label": "E 接近后 W A 的实战演示",
+        "time": 50,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=50"
+      }
+    ],
+    "image": "assets/frames/BV1ts4K6eEX7-w-stack.webp",
+    "fullImage": "assets/frames/BV1ts4K6eEX7-w-stack.jpg"
+  },
+  {
+    "id": "BV1ts4K6eEX7-gear",
+    "bvid": "BV1ts4K6eEX7",
+    "hero": "小鱼人",
+    "title": "放倒流出装：攻速、急速接魔法伤害",
+    "summary": "黄昏黎明、纳什、蜕生和星界驱驰提供联动属性，再用影焰、帽子放大输出。",
+    "category": "出装",
+    "tags": [
+      "小鱼人",
+      "菲兹",
+      "Fizz",
+      "将他们放倒",
+      "将他们放倒倒倒",
+      "黄昏黎明",
+      "黄昏与黎明",
+      "纳什之牙",
+      "影焰",
+      "帽子",
+      "蜕生",
+      "星界驱驰",
+      "魔切",
+      "大天使",
+      "注魔",
+      "物理转魔法"
+    ],
+    "time": 66,
+    "timeLabel": "01:06–01:25",
+    "imageTime": 71,
+    "sections": [
+      {
+        "heading": "原片六件装备",
+        "text": "片尾装备图依次展示黄昏黎明、纳什之牙、影焰、帽子、蜕生、星界驱驰。原片把它们称为核心出装，没有逐件展示完整购买时间线，因此这张图按成型搭配理解。"
+      },
+      {
+        "heading": "为什么同时找攻速和急速",
+        "text": "作者用黄昏黎明、纳什提供的攻速与急速，以及蜕生、星界驱驰提供的急速，解释怎样提高「将他们放倒」的已损生命值伤害；引爆是魔法伤害，再接影焰增伤与蜕生的百分比法穿收益。"
+      },
+      {
+        "heading": "本局的双眼泪分支",
+        "text": "作者补充，本局因为拿到注魔和物理转魔法，所以尝试魔切、大天使的另一套装备方向。这是特定强化条件下的分支，不能替代上方所有对局的通用成型搭配。"
+      }
+    ],
+    "references": [
+      {
+        "label": "片尾成型装备图",
+        "time": 67,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=67"
+      },
+      {
+        "label": "攻速、急速转入引爆伤害",
+        "time": 73,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=73"
+      },
+      {
+        "label": "魔法伤害的增伤与法穿联动",
+        "time": 79,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=79"
+      },
+      {
+        "label": "本局注魔与物转法下的双眼泪尝试",
+        "time": 83,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=83"
+      }
+    ],
+    "image": "assets/frames/BV1ts4K6eEX7-gear.webp",
+    "fullImage": "assets/frames/BV1ts4K6eEX7-gear.jpg"
+  },
+  {
+    "id": "BV1ts4K6eEX7-augments",
+    "bvid": "BV1ts4K6eEX7",
+    "hero": "小鱼人",
+    "title": "先有将他们放倒，再按已有条件补联动",
+    "summary": "核心与联动分开查：虚幻武器、秘术冲拳、鼓声暴起等来自原片的配套清单。",
+    "category": "海克斯",
+    "tags": [
+      "小鱼人",
+      "菲兹",
+      "Fizz",
+      "将他们放倒",
+      "将他们放倒倒倒",
+      "虚幻武器",
+      "回归基本功",
+      "秘术冲拳",
+      "双刀流",
+      "鼓声暴起",
+      "低音轰鸣",
+      "升级耀光",
+      "牙仙子",
+      "物理转魔法",
+      "命运之武器",
+      "命定武器",
+      "屹立不倒"
+    ],
+    "time": 85,
+    "timeLabel": "01:25–01:36",
+    "imageTime": 96.2,
+    "sections": [
+      {
+        "heading": "核心先到位",
+        "text": "原片将「将他们放倒倒倒」单列为必备核心。其余是联动清单，没有给出跨所有对局的统一 S／A／B 评级，也没有展示全部强化同时出现的对局。"
+      },
+      {
+        "heading": "按原片清单检索",
+        "items": [
+          "虚幻武器、回归基本功、秘术冲拳、双刀流。",
+          "鼓声暴起／低音轰鸣、升级：耀光、牙仙子、物理转魔法。",
+          "命运之武器、屹立不倒。原片卡面名与库内既有简称均保留为搜索词。"
+        ]
+      },
+      {
+        "heading": "选卡时回到缺口",
+        "text": "结合前面原片的属性链，先确认核心叠层成立，再看手中组合是否需要补技能频率、攻击特效或属性转化。这是对该片机制与装备说明的归纳；各联动的具体取舍仍应回到对应强化说明和原片条件。"
+      }
+    ],
+    "references": [
+      {
+        "label": "必备核心与联动清单起点",
+        "time": 86,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=86"
+      },
+      {
+        "label": "虚幻武器等联动逐项展示",
+        "time": 88,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=88"
+      },
+      {
+        "label": "完整联动清单定格",
+        "time": 96,
+        "url": "https://www.bilibili.com/video/BV1ts4K6eEX7/?t=96"
+      }
+    ],
+    "image": "assets/frames/BV1ts4K6eEX7-augments.webp",
+    "fullImage": "assets/frames/BV1ts4K6eEX7-augments.jpg"
+  },
+  {
+    "id": "BV18uxx6pEA6-overheat-passive",
+    "bvid": "BV18uxx6pEA6",
+    "hero": "兰博",
+    "title": "红温爆发：先理解普攻被动的伤害来源",
+    "summary": "原片围绕「小蜜蜂」红温兰博展开：过热普攻有法强与最大生命值比例的魔法伤害收益，不靠叠三环或电浆。",
+    "category": "机制",
+    "tags": [
+      "兰博",
+      "机械公敌",
+      "Rumble",
+      "红温",
+      "小蜜蜂",
+      "过热",
+      "被动",
+      "法强",
+      "最大生命值",
+      "魔法伤害"
+    ],
+    "time": 9,
+    "timeLabel": "00:09–00:26",
+    "imageTime": 13,
+    "sections": [
+      {
+        "heading": "红温为何能打出爆发",
+        "text": "作者先解释兰博被动：过热状态下的普通攻击会附加魔法伤害，其中有最大生命值比例部分，也有 AP 加成；原片强调它不需要先叠三环或电浆。"
+      },
+      {
+        "heading": "原片被动说明卡",
+        "text": "画面中的「机械重组」说明卡写明：达到 150 热量后进入持续 4 秒的过热状态，期间兰博会沉默自身，但获得攻击速度，并强化普通攻击。这里保留原片当时的说明，不代表已在当前版本实机复测。"
+      },
+      {
+        "heading": "先把触发和输出分清",
+        "text": "这条视频的玩法前提是拿到作者所称的「小蜜蜂」。红温后的自我沉默会影响继续施法，因此后面的控温顺序是在进入过热之前先安排好触发；原片没有展开小蜜蜂的完整数值公式。"
+      }
+    ],
+    "references": [
+      {
+        "label": "兰博过热普攻的伤害来源",
+        "time": 9,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=9"
+      },
+      {
+        "label": "画面被动说明卡：过热、自我沉默及普攻强化",
+        "time": 13,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=13"
+      },
+      {
+        "label": "红温后不能施法，如何触发小蜜蜂",
+        "time": 21,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=21"
+      }
+    ],
+    "image": "assets/frames/BV18uxx6pEA6-overheat-passive.webp",
+    "fullImage": "assets/frames/BV18uxx6pEA6-overheat-passive.jpg"
+  },
+  {
+    "id": "BV18uxx6pEA6-heat-130-sequence",
+    "bvid": "BV18uxx6pEA6",
+    "hero": "兰博",
+    "title": "130 热量起手：先触发小蜜蜂，再用小技能红温",
+    "summary": "留在 130 热量并保证至少一个小技能已经冷却；有 R 时先 R 触发，再迅速用小技能达到过热。",
+    "category": "操作",
+    "tags": [
+      "兰博",
+      "机械公敌",
+      "Rumble",
+      "红温",
+      "小蜜蜂",
+      "130热量",
+      "150热量",
+      "20热量",
+      "控温",
+      "R",
+      "雪球",
+      "触发顺序"
+    ],
+    "time": 26,
+    "timeLabel": "00:26–00:48",
+    "imageTime": 33,
+    "sections": [
+      {
+        "heading": "先准备两个条件",
+        "items": [
+          "作者说明：基础技能每次释放增加 20 点热量，R 技能不增加热量。",
+          "将热量控在 130，同时保证至少一个小技能已经冷却完成，给后续进入红温留好手段。"
+        ]
+      },
+      {
+        "heading": "有 R 的顺序",
+        "text": "先释放 R 触发小蜜蜂，再迅速释放已备好的小技能，将热量从 130 推到过热阈值。关键是先安排触发，再进入会自我沉默的红温状态。"
+      },
+      {
+        "heading": "没有 R 时的替代",
+        "text": "原片还给出「雪球」或直接释放小技能来触发小蜜蜂的方式；没有进一步说明雪球命中、距离或冷却等额外条件，因此不补成固定连招门槛。"
+      }
+    ],
+    "references": [
+      {
+        "label": "基础技能加 20 热量，R 无热量消耗",
+        "time": 27,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=27"
+      },
+      {
+        "label": "130 热量且保留一个已冷却技能",
+        "time": 31,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=31"
+      },
+      {
+        "label": "有 R：先 R 触发，再用其他技能红温",
+        "time": 37,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=37"
+      },
+      {
+        "label": "无 R：雪球或小技能替代触发",
+        "time": 44,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=44"
+      }
+    ],
+    "image": "assets/frames/BV18uxx6pEA6-heat-130-sequence.webp",
+    "fullImage": "assets/frames/BV18uxx6pEA6-heat-130-sequence.jpg"
+  },
+  {
+    "id": "BV18uxx6pEA6-r-drag-cancel",
+    "bvid": "BV18uxx6pEA6",
+    "hero": "兰博",
+    "title": "R 的拖拽操作：选起点、定方向，右键撤回",
+    "summary": "按原片演示的施法方式，鼠标先选起点，按住 R 拖出方向，松开释放；松开前右键可以撤回。",
+    "category": "操作",
+    "tags": [
+      "兰博",
+      "机械公敌",
+      "Rumble",
+      "红温",
+      "小蜜蜂",
+      "R",
+      "恒温灼烧",
+      "大招",
+      "拖拽施法",
+      "起点",
+      "方向",
+      "右键取消"
+    ],
+    "time": 50,
+    "timeLabel": "00:50–01:05",
+    "imageTime": 59,
+    "sections": [
+      {
+        "heading": "释放的四步",
+        "items": [
+          "用鼠标选择大招的起点。",
+          "按住 R，不要立刻松手。",
+          "移动鼠标，选择大招铺开的方向。",
+          "确认方向后松开 R，完成释放。"
+        ]
+      },
+      {
+        "heading": "想取消时",
+        "text": "在松开 R 之前按鼠标右键，即可撤回这次大招。此处记录的是作者演示的施法操作，没有把它扩大为所有按键和施法设置下的统一规则。"
+      },
+      {
+        "heading": "这段演示解决什么问题",
+        "text": "它用于把大招的起点与方向分别控制，便于先铺好 R，再衔接前一张卡的触发与红温顺序；原片没有给出固定落点模板或必杀人数。"
+      }
+    ],
+    "references": [
+      {
+        "label": "鼠标选择起点后按住 R",
+        "time": 53,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=53"
+      },
+      {
+        "label": "拖动鼠标定方向，松开 R 释放",
+        "time": 56,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=56"
+      },
+      {
+        "label": "松开 R 前右键撤回",
+        "time": 61,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=61"
+      }
+    ],
+    "image": "assets/frames/BV18uxx6pEA6-r-drag-cancel.webp",
+    "fullImage": "assets/frames/BV18uxx6pEA6-r-drag-cancel.jpg"
+  },
+  {
+    "id": "BV18uxx6pEA6-augment-reference",
+    "bvid": "BV18uxx6pEA6",
+    "hero": "兰博",
+    "title": "海克斯参考表：按作者的首选与次选查找",
+    "summary": "视频结尾给出两档海克斯参考；保留原表分组，作为这一条小蜜蜂红温兰博玩法的当期选择参考。",
+    "category": "海克斯",
+    "tags": [
+      "兰博",
+      "机械公敌",
+      "Rumble",
+      "红温",
+      "小蜜蜂",
+      "杀戮时间到了",
+      "有始有终",
+      "巨人杀手",
+      "史上最大雪球",
+      "命运之武器",
+      "命定武器",
+      "利刃华尔兹",
+      "升级：中娅",
+      "终极循环往复",
+      "伤不过三",
+      "物法皆修",
+      "沃格勒特的巫师帽",
+      "侵蚀"
+    ],
+    "time": 65,
+    "timeLabel": "01:05–01:09",
+    "imageTime": 67,
+    "sections": [
+      {
+        "heading": "原表首选",
+        "items": [
+          "杀戮时间到了、有始有终。",
+          "巨人杀手、史上最大雪球。",
+          "命运之武器、利刃华尔兹。"
+        ]
+      },
+      {
+        "heading": "原表次选",
+        "items": [
+          "升级：中娅、终极循环往复。",
+          "伤不过三、物法皆修。",
+          "沃格勒特的巫师帽、侵蚀。"
+        ]
+      },
+      {
+        "heading": "如何使用这张表",
+        "text": "首选、次选是作者这条视频中的分组，没有逐项讲解触发机制，也没有给出胜率统计。画面还列出两组装备图标，但没有口播解释出装顺序；此处不从图标排列推导固定购买次序。海克斯名称按结尾表格抄录，其中原图写作「命运之武器」。"
+      }
+    ],
+    "references": [
+      {
+        "label": "结尾装备与海克斯完整推荐图：首选、次选",
+        "time": 67,
+        "url": "https://www.bilibili.com/video/BV18uxx6pEA6/?t=67"
+      }
+    ],
+    "image": "assets/frames/BV18uxx6pEA6-augment-reference.webp",
+    "fullImage": "assets/frames/BV18uxx6pEA6-augment-reference.jpg"
+  },
+  {
+    "id": "BV1urxY6yECw-temporary-as-crit",
+    "bvid": "BV1urxY6yECw",
+    "hero": "男枪",
+    "title": "鼓声暴起＋大腕：临时攻速也能转成暴伤",
+    "summary": "放技能激活下一次普攻，把低音轰鸣的短时高攻速接入大腕转化。",
+    "category": "机制",
+    "tags": [
+      "男枪",
+      "格雷福斯",
+      "法外狂徒",
+      "Graves",
+      "鼓声暴起",
+      "低音轰鸣",
+      "大腕",
+      "临时攻速",
+      "暴击伤害"
+    ],
+    "time": 14,
+    "timeLabel": "00:14–00:38",
+    "image": "assets/frames/BV1urxY6yECw-temporary-as-crit.webp",
+    "fullImage": "assets/frames/BV1urxY6yECw-temporary-as-crit.jpg",
+    "imageTime": 22,
+    "sections": [
+      {
+        "heading": "两项强化怎样连接",
+        "text": "鼓声暴起（卡面为鼓声暴起·低音轰鸣）让释放技能后的下一次普攻获得巨额攻速；大腕把攻速转成暴击伤害。原片实际展示这段临时攻速也会被大腕读取。"
+      },
+      {
+        "heading": "大腕的原片口径",
+        "text": "作者与卡面均说明大腕另提供 35% 暴击伤害和 25% 额外攻击力，并将 75% 攻速转为暴击伤害。这些是视频当期说明，不能直接视为当前补丁参数。"
+      },
+      {
+        "heading": "严格前提",
+        "text": "收益集中在技能触发后的那一发强化普攻，需要两项强化同时成立；它不是拿到大腕后就常驻获得同等临时暴伤。"
+      }
+    ],
+    "references": [
+      {
+        "label": "鼓声暴起的触发方式",
+        "time": 14,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=14"
+      },
+      {
+        "label": "大腕转化与附加属性",
+        "time": 19,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=19"
+      },
+      {
+        "label": "临时攻速确实被读取的说明",
+        "time": 29,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=29"
+      }
+    ]
+  },
+  {
+    "id": "BV1urxY6yECw-graves-enhanced-crit",
+    "bvid": "BV1urxY6yECw",
+    "hero": "男枪",
+    "title": "男枪强化射击：先技能，再兑现暴击与魔法附伤",
+    "summary": "本局面板从约 55% 暴伤跳至 157%，而实际秒杀还包含既有暴击属性。",
+    "category": "操作",
+    "tags": [
+      "男枪",
+      "格雷福斯",
+      "法外狂徒",
+      "鼓声暴起",
+      "大腕",
+      "暴击率",
+      "暴击伤害",
+      "强化普攻",
+      "魔法伤害"
+    ],
+    "time": 38,
+    "timeLabel": "00:38–01:04",
+    "image": "assets/frames/BV1urxY6yECw-graves-enhanced-crit.webp",
+    "fullImage": "assets/frames/BV1urxY6yECw-graves-enhanced-crit.jpg",
+    "imageTime": 43,
+    "sections": [
+      {
+        "heading": "本局面板对比",
+        "text": "原片先展示未放技能时约 55% 的暴击伤害加成，再展示开技能后约 157%（卡面为 157.3%），作者将增幅描述为约多出 100 点暴伤。"
+      },
+      {
+        "heading": "这一发同时吃什么",
+        "text": "先放技能，再用下一发普攻兑现：一方面有鼓声暴起的魔法附加伤害，另一方面有临时攻速经大腕转出的暴击伤害。"
+      },
+      {
+        "heading": "不要漏掉暴击条件",
+        "text": "暴击伤害加成与暴击率是不同属性。43 秒对比画面中的男枪面板已有 100% 暴击率，所以本局的一枪效果还建立在既有装备与暴击属性上；不能据此承诺任意装备、低暴击率或高抗性目标也必被一枪击杀。"
+      }
+    ],
+    "references": [
+      {
+        "label": "未触发/触发后的暴伤对比",
+        "time": 38,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=38"
+      },
+      {
+        "label": "157.3% 加成与本局暴击面板",
+        "time": 40,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=40"
+      },
+      {
+        "label": "魔法附伤与临时暴伤共同兑现",
+        "time": 46,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=46"
+      }
+    ]
+  },
+  {
+    "id": "BV1urxY6yECw-two-card-tradeoff",
+    "bvid": "BV1urxY6yECw",
+    "hero": "男枪",
+    "title": "两卡组合的取舍：有技能时爆发，空档普攻会卡手",
+    "summary": "这是围绕技能穿插射击的打法，不能忽略没有触发时的输出节奏。",
+    "category": "海克斯",
+    "tags": [
+      "男枪",
+      "格雷福斯",
+      "鼓声暴起",
+      "大腕",
+      "亮剑",
+      "回归基本功",
+      "技能穿插普攻",
+      "暴击"
+    ],
+    "time": 59,
+    "timeLabel": "00:59–01:23",
+    "image": "assets/frames/BV1urxY6yECw-two-card-tradeoff.webp",
+    "fullImage": "assets/frames/BV1urxY6yECw-two-card-tradeoff.jpg",
+    "imageTime": 74,
+    "sections": [
+      {
+        "heading": "作者的比较对象",
+        "text": "作者把这套与亮剑类一张强化即可进入高爆发的思路作比较：鼓声暴起加大腕需要两张强化，成型条件更具体。"
+      },
+      {
+        "heading": "原片承认的空档",
+        "text": "没有技能可用时，普攻会明显卡手，因此不能只看强化射击的高亮伤害。要把触发技能与下一次射击连在一起，空档期重新判断站位和目标。"
+      },
+      {
+        "heading": "这条参考的范围",
+        "text": "原片强调的是一发强化普攻的观感与特定组合效果，没有给出完整出装教学、固定暴击门槛公式或统计胜率。"
+      }
+    ],
+    "references": [
+      {
+        "label": "与亮剑等玩法的比较",
+        "time": 59,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=59"
+      },
+      {
+        "label": "两卡条件与普攻空档",
+        "time": 65,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=65"
+      },
+      {
+        "label": "作者对玩法取舍的说明",
+        "time": 77,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=77"
+      }
+    ]
+  },
+  {
+    "id": "BV1urxY6yECw-ambessa-haste-rhythm",
+    "bvid": "BV1urxY6yECw",
+    "hero": "安蓓萨",
+    "title": "鼓声暴起＋术师：攻速也能接成急速循环",
+    "summary": "以安蓓萨为实证：放技能、普攻后马上接技能，抓住临时急速窗口。",
+    "category": "机制",
+    "tags": [
+      "铁血狼母",
+      "安蓓萨",
+      "Ambessa",
+      "狼母",
+      "纯粹主义者",
+      "术师",
+      "术士",
+      "鼓声暴起",
+      "技能急速",
+      "攻速",
+      "死歌",
+      "寒冰",
+      "船长"
+    ],
+    "time": 99,
+    "timeLabel": "01:39–02:17",
+    "image": "assets/frames/BV1urxY6yECw-ambessa-haste-rhythm.webp",
+    "fullImage": "assets/frames/BV1urxY6yECw-ambessa-haste-rhythm.jpg",
+    "imageTime": 116,
+    "sections": [
+      {
+        "heading": "与大腕不同的分支",
+        "text": "原片后半改为鼓声暴起搭配纯粹主义术士/术师，通过攻速转技能急速。实际演示英雄是安蓓萨（铁血狼母），不是前半段男枪。"
+      },
+      {
+        "heading": "把临时增益与英雄被动分开",
+        "text": "片中技能急速从 120 到 250，再到 283。作者字幕明确说明：约 130 急速来自这次强化联动，额外 33 来自狼母被动转化，不能把全部 163 都算到鼓声暴起上。"
+      },
+      {
+        "heading": "操作节奏",
+        "text": "作者要求放技能、A 出去后立刻接技能，才能让下个技能吃到窗口里的急速，避免循环断掉；更适合技能穿插普攻快、带强化普攻的英雄。"
+      },
+      {
+        "heading": "只在口头提出的例子",
+        "text": "结尾提到居家死歌、寒冰和船长等也可借此加快成型，但原片没有逐个展示这些英雄的技能顺序或验证结果，不能直接照搬狼母的额外被动收益。"
+      }
+    ],
+    "references": [
+      {
+        "label": "鼓声与术师分支开始",
+        "time": 99,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=99"
+      },
+      {
+        "label": "120→250→283 面板与额外 33 的归因",
+        "time": 109,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=109"
+      },
+      {
+        "label": "技能后普攻再立刻接技能",
+        "time": 117,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=117"
+      },
+      {
+        "label": "居家英雄仅为口头适配建议",
+        "time": 129,
+        "url": "https://www.bilibili.com/video/BV1urxY6yECw/?t=129"
+      }
+    ]
+  },
+  {
+    "id": "BV1s1ph6pEn2-we-loop",
+    "bvid": "BV1s1ph6pEn2",
+    "hero": "狮子狗",
+    "title": "无限狮吼功：W、E 升满，再补大法师与技能急速",
+    "summary": "W、E 都升满后以 10 秒基础冷却为前提，配合大法师互相减冷却；作者称本局约 190 技能急速可启动循环。",
+    "category": "机制",
+    "tags": [
+      "雷恩加尔",
+      "狮子狗",
+      "狮吼功",
+      "Rengar",
+      "大法师",
+      "W",
+      "E",
+      "技能升级",
+      "技能急速",
+      "冷却循环"
+    ],
+    "time": 34,
+    "timeLabel": "00:34–00:45",
+    "image": "assets/frames/BV1s1ph6pEn2-we-loop.webp",
+    "fullImage": "assets/frames/BV1s1ph6pEn2-we-loop.jpg",
+    "imageTime": 39,
+    "versionNote": "2026-10-09 原片，按用户点名补充收录；依据当时演示归纳，未做当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "循环的前置条件",
+        "items": [
+          "原片明确要求 W、E 都升满，作者给出的两者基础冷却均为 10 秒。",
+          "拿到核心海克斯「大法师」，用施放技能来削减另一技能的冷却。画面卡牌说明为：返还另一技能 30% 的基础冷却时间。",
+          "作者将 W/E 的实际冷却目标概括为约 3 秒，并口述实测约 190 技能急速就可开刷。这是原片的近似实测门槛，不是当前版本的精确临界值。"
+        ]
+      },
+      {
+        "heading": "为什么围绕 W",
+        "text": "这套玩法持续施放 W 打范围伤害、回血，再把强化技能留给强化 W 来解除控制。后半段实战展示的是成型状态；标题的一打五与开头抗伤演示，不代表只拿到大法师即可直接实现。"
+      }
+    ],
+    "references": [
+      {
+        "label": "W、E 升满后的基础冷却",
+        "time": 34,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=34"
+      },
+      {
+        "label": "约 3 秒冷却与作者实测约 190 技能急速",
+        "time": 38,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=38"
+      },
+      {
+        "label": "大法师卡牌机制",
+        "time": 87,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=87"
+      }
+    ]
+  },
+  {
+    "id": "BV1s1ph6pEn2-eww-control",
+    "bvid": "BV1s1ph6pEn2",
+    "hero": "狮子狗",
+    "title": "按 E→W→W 循环，让强化始终落在 W 上",
+    "summary": "不要把 E、W 同时按下；按一下 E、两下 W 的节奏，避免误放强化 E 导致两个技能一起进入冷却。",
+    "category": "操作",
+    "tags": [
+      "雷恩加尔",
+      "狮子狗",
+      "狮吼功",
+      "Rengar",
+      "EWW",
+      "强化W",
+      "解控",
+      "残暴值",
+      "充能",
+      "追击"
+    ],
+    "time": 45,
+    "timeLabel": "00:45–01:04",
+    "image": "assets/frames/BV1s1ph6pEn2-eww-control.webp",
+    "fullImage": "assets/frames/BV1s1ph6pEn2-eww-control.jpg",
+    "imageTime": 54,
+    "versionNote": "2026-10-09 原片，按用户点名补充收录；依据当时演示归纳，未做当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "按键节奏比乱按重要",
+        "items": [
+          "原片警告：同时按 E/W，可能误放强化 E，使两个技能同时进入冷却，打断互刷节奏。",
+          "按视频示范循环「一下 E、两下 W」，让每次强化都落在 W 上。第二下 W 对应强化 W；这套操作建立在上一张卡的技能等级、海克斯与冷却条件已满足的基础上。"
+        ]
+      },
+      {
+        "heading": "追人时保留充能",
+        "text": "作者建议追击时保留两层或三层充能，吃到控制时用 E→W→W 接出强化 W 解控。原片实际展示 W 回血和强化 W 解控的配合；不要把这一段口播延伸为所有控制类型都已逐项实测。"
+      }
+    ],
+    "references": [
+      {
+        "label": "E/W 同按导致强化 E 的错误示范",
+        "time": 46,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=46"
+      },
+      {
+        "label": "一下 E、两下 W 的正确节奏",
+        "time": 53,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=53"
+      },
+      {
+        "label": "追击保留两到三层充能",
+        "time": 58,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=58"
+      }
+    ]
+  },
+  {
+    "id": "BV1s1ph6pEn2-ap-shield-build",
+    "bvid": "BV1s1ph6pEn2",
+    "hero": "狮子狗",
+    "title": "AP 出装：用连续 W 同时打伤害、回血和刷盾",
+    "summary": "原片围绕 W 的 80% AP 加成走法强路线，用巫妖补前期伤害、盾书配合 W 刷盾，再用振奋放大续航。",
+    "category": "出装",
+    "tags": [
+      "雷恩加尔",
+      "狮子狗",
+      "狮吼功",
+      "Rengar",
+      "AP",
+      "法强",
+      "巫妖之祸",
+      "巫妖",
+      "盾书",
+      "暴击书",
+      "蜕生",
+      "振奋盔甲",
+      "星界驱驰",
+      "CD鞋"
+    ],
+    "time": 64,
+    "timeLabel": "01:04–01:21",
+    "image": "assets/frames/BV1s1ph6pEn2-ap-shield-build.webp",
+    "fullImage": "assets/frames/BV1s1ph6pEn2-ap-shield-build.jpg",
+    "imageTime": 73,
+    "versionNote": "2026-10-09 原片，按用户点名补充收录；依据当时演示归纳，未做当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "原片推荐的六件",
+        "items": [
+          "巫妖、盾书、CD 鞋。",
+          "蜕生、振奋、星界驱驰。",
+          "「盾书／暴击书」保留作者在这条视频中的简称，原片没有在此处展示该装备的完整名称；可直接查看本卡的六件套截图对应图标。"
+        ]
+      },
+      {
+        "heading": "每件装备解决什么",
+        "items": [
+          "W 技能说明画面标出 80% AP 加成，因此作者推荐 AP 路线；巫妖负责保证前期伤害。",
+          "连续 W 频繁触发作者所说的「暴击书」护盾，护盾和 W 回血再受到振奋增幅。",
+          "作者说明鞋子和星界驱驰用于增加移速、方便追击。"
+        ]
+      },
+      {
+        "heading": "伤害与生存一起建立",
+        "text": "这张卡描述的是原片六件套的联动。W 伤害、回血、强化 W 解控以及装备护盾共同支持其近身持续作战，不能把视频中抗多人和防御塔的片段写成永久无敌机制。"
+      }
+    ],
+    "references": [
+      {
+        "label": "W 技能说明中的 80% AP 加成",
+        "time": 65,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=65"
+      },
+      {
+        "label": "六件套推荐画面",
+        "time": 70,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=70"
+      },
+      {
+        "label": "刷盾、振奋增幅与移速用途",
+        "time": 74,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=74"
+      }
+    ]
+  },
+  {
+    "id": "BV1s1ph6pEn2-hex-anvil",
+    "bvid": "BV1s1ph6pEn2",
+    "hero": "狮子狗",
+    "title": "海克斯分工：大法师保循环，锻体与碎片补急速",
+    "summary": "先满足大法师这一核心，再用原片推荐的联动强化补伤害、移速或技能急速；本局通过锻体及属性碎片达到冷却门槛。",
+    "category": "海克斯",
+    "tags": [
+      "雷恩加尔",
+      "狮子狗",
+      "狮吼功",
+      "Rengar",
+      "大法师",
+      "纯粹主义者-术师",
+      "术士",
+      "循环往复",
+      "缩小引擎",
+      "超凡邪恶",
+      "珠光护手",
+      "回归基本功",
+      "掷骰狂人",
+      "无限循环往复",
+      "属性叠属性",
+      "锻体",
+      "技能急速碎片",
+      "迅捷碎片"
+    ],
+    "time": 81,
+    "timeLabel": "01:21–01:40",
+    "image": "assets/frames/BV1s1ph6pEn2-hex-anvil.webp",
+    "fullImage": "assets/frames/BV1s1ph6pEn2-hex-anvil.jpg",
+    "imageTime": 89.5,
+    "versionNote": "2026-10-09 原片，按用户点名补充收录；依据当时演示归纳，未做当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "核心与可选联动分开看",
+        "items": [
+          "核心：大法师，承担技能互相削减冷却的基础。",
+          "原片推荐表中的联动：纯粹主义者－术师、循环往复、缩小引擎、超凡邪恶、珠光护手。",
+          "推荐表后续又加入：回归基本功、掷骰狂人、无限循环往复。上述是可选联动，原片没有说必须全拿到。"
+        ]
+      },
+      {
+        "heading": "这局实际拿到什么",
+        "text": "原片随后单独展示本局三张：大法师、掷骰狂人、属性叠属性！。作者说本局靠锻体解决冷却，并利用掷骰狂人与属性叠属性的联动获得属性碎片；画面展示了黄色技能急速碎片和迅捷碎片。不要把推荐表里的全部强化误写成这一局已经拥有。"
+      },
+      {
+        "heading": "先补到循环门槛",
+        "text": "这局属性获取的用途首先是补齐技能急速。视频说明的是该局掉落和成型过程，没有给出每次必出某种碎片或固定成型时间的保证。卡牌名称按画面校正：超凡邪恶、掷骰狂人；配音转写在这些名称上有误识别。"
+      }
+    ],
+    "references": [
+      {
+        "label": "核心和联动海克斯推荐表",
+        "time": 81,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=81"
+      },
+      {
+        "label": "后续可选强化完整表",
+        "time": 89,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=89"
+      },
+      {
+        "label": "本局实际三张强化",
+        "time": 93,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=93"
+      },
+      {
+        "label": "黄色技能急速碎片与迅捷碎片",
+        "time": 98,
+        "url": "https://www.bilibili.com/video/BV1s1ph6pEn2/?t=98"
+      }
+    ]
+  },
+  {
+    "id": "BV1qgWH6EEAe-onhit-matchup",
+    "bvid": "BV1qgWH6EEAe",
+    "hero": "薇恩",
+    "title": "嗡嗡怪兽先看阵容：额外攻击力转成攻速",
+    "summary": "原片把嗡嗡怪兽薇恩定位为攻击特效路线，并建议面对两个及以上前排时再考虑选择。",
+    "category": "机制",
+    "tags": [
+      "薇恩",
+      "VN",
+      "暗夜猎手",
+      "Vayne",
+      "嗡嗡怪兽",
+      "攻击特效",
+      "额外攻击力",
+      "攻速",
+      "W",
+      "圣银弩箭",
+      "三环",
+      "真实伤害",
+      "前排"
+    ],
+    "time": 20,
+    "timeLabel": "00:20–00:38",
+    "imageTime": 25,
+    "sections": [
+      {
+        "heading": "强化怎样改变属性",
+        "text": "原片介绍「嗡嗡怪兽」：额外攻击力转化为攻击速度，普攻还附带额外魔法伤害攻击特效。作者据此把装备思路放到攻击特效上，利用高攻速提高特效触发频率。"
+      },
+      {
+        "heading": "为什么选薇恩",
+        "text": "画面中的 W「圣银弩箭」说明卡展示，连续第三次攻击或技能会造成 10% 最大生命值的额外真实伤害。这个 10% 是原片当时展示的数值，不作当前版本保证。"
+      },
+      {
+        "heading": "先满足作者给的阵容条件",
+        "text": "作者明确说，对面有两个及以上前排的局才考虑这条路线。高血量对手是这套百分比伤害玩法的目标，不能只看开场的 5.0 攻速就忽略阵容。"
+      }
+    ],
+    "references": [
+      {
+        "label": "嗡嗡怪兽：额外攻击力转攻速与普攻特效",
+        "time": 21,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=21"
+      },
+      {
+        "label": "作者的选择条件：两个及以上前排",
+        "time": 28,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=28"
+      },
+      {
+        "label": "W 三环的原片说明卡",
+        "time": 32,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=32"
+      }
+    ],
+    "image": "assets/frames/BV1qgWH6EEAe-onhit-matchup.webp",
+    "fullImage": "assets/frames/BV1qgWH6EEAe-onhit-matchup.jpg"
+  },
+  {
+    "id": "BV1qgWH6EEAe-bork-penetration-build",
+    "bvid": "BV1qgWH6EEAe",
+    "hero": "薇恩",
+    "title": "破败作核心，穿甲装同时提供攻速与物理特效收益",
+    "summary": "围绕 W 三环和破败百分比物理伤害构筑，再用穿甲装提供的攻击力转攻速；保留作者的常规六件搭配。",
+    "category": "出装",
+    "tags": [
+      "薇恩",
+      "VN",
+      "暗夜猎手",
+      "Vayne",
+      "嗡嗡怪兽",
+      "破败",
+      "破败王者之刃",
+      "羊刀",
+      "大穿",
+      "幽梦",
+      "夜之锋刃",
+      "全吸鞋",
+      "百分比物理伤害",
+      "穿甲"
+    ],
+    "time": 38,
+    "timeLabel": "00:38–01:01",
+    "imageTime": 60.2,
+    "sections": [
+      {
+        "heading": "主要伤害从哪里来",
+        "text": "作者将主要伤害归于 W 三环和破败特效，并口述两者约占九成。这里把这个比例作为作者对该片打法的判断；破败是百分比物理伤害，W 三环是原片前段展示的最大生命值真实伤害。"
+      },
+      {
+        "heading": "为什么后续找穿甲",
+        "text": "穿甲装备的额外攻击力可经嗡嗡怪兽转为攻速，穿甲本身则提高破败等物理特效的实际伤害。作者还称三环和破败都能吃到「大穿增伤」；这句话保留为原片的装备联动说明，不将其等同于护甲穿透直接强化真实伤害。"
+      },
+      {
+        "heading": "原片列出的常规六件",
+        "items": [
+          "全吸鞋（作者原称）、破败、羊刀。",
+          "大穿、幽梦、夜之锋刃。",
+          "这是作者列出的成型六件搭配；原片没有逐件展开完整购买时间线。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "label": "破败是特效装核心，提供百分比物理伤害",
+        "time": 38,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=38"
+      },
+      {
+        "label": "作者关于三环、破败与大穿增伤的说明",
+        "time": 46,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=46"
+      },
+      {
+        "label": "其余装备从穿甲装备选择",
+        "time": 50,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=50"
+      },
+      {
+        "label": "常规六件装备逐项展示",
+        "time": 56,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=56"
+      }
+    ],
+    "image": "assets/frames/BV1qgWH6EEAe-bork-penetration-build.webp",
+    "fullImage": "assets/frames/BV1qgWH6EEAe-bork-penetration-build.jpg"
+  },
+  {
+    "id": "BV1qgWH6EEAe-vulnerability-crit-branch",
+    "bvid": "BV1qgWH6EEAe",
+    "hero": "薇恩",
+    "title": "拿到易损再换思路：破败、海妖特效接无尽",
+    "summary": "本局用易损让破败与海妖伤害暴击，再利用无尽提高暴击伤害；这条分支仍围绕物理特效和穿甲。",
+    "category": "出装",
+    "tags": [
+      "薇恩",
+      "VN",
+      "暗夜猎手",
+      "Vayne",
+      "嗡嗡怪兽",
+      "易损",
+      "暴击",
+      "破败",
+      "海妖",
+      "海妖杀手",
+      "无尽",
+      "无尽之刃",
+      "暴击伤害",
+      "大穿",
+      "穿甲"
+    ],
+    "time": 60,
+    "timeLabel": "01:00–01:20",
+    "imageTime": 64,
+    "sections": [
+      {
+        "heading": "先有易损这个条件",
+        "text": "作者说明本局另外拿到「易损」，因此让破败和海妖特效伤害参与暴击。画面易损卡还写有获得 25% 暴击几率；这条出装分支以已经拿到易损为前提。"
+      },
+      {
+        "heading": "接无尽，仍保留穿甲",
+        "text": "原片继续说明，这些特效的暴击伤害还能吃到无尽的暴击伤害加成；由于这里讨论的是破败、海妖的物理特效，作者仍强调穿甲与大穿的重要性。不要把这一段的物理伤害描述扩展到 W 三环或嗡嗡怪兽自带的魔法特效。"
+      },
+      {
+        "heading": "怎样理解本局展示",
+        "text": "原片拿高血量乌鸦、芮尔作伤害展示，并用更高血量的坦克作夸张类比；没有提供所有护甲、强化与血量条件下的统一斩杀线。常规六件与这条易损分支分开查，按实际拿到的强化选。"
+      }
+    ],
+    "references": [
+      {
+        "label": "易损是本局特定强化",
+        "time": 61,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=61"
+      },
+      {
+        "label": "易损令破败和海妖特效暴击",
+        "time": 63,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=63"
+      },
+      {
+        "label": "无尽的暴击伤害加成",
+        "time": 70,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=70"
+      },
+      {
+        "label": "物理特效继续依赖穿甲与大穿",
+        "time": 74,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=74"
+      }
+    ],
+    "image": "assets/frames/BV1qgWH6EEAe-vulnerability-crit-branch.webp",
+    "fullImage": "assets/frames/BV1qgWH6EEAe-vulnerability-crit-branch.jpg"
+  },
+  {
+    "id": "BV1qgWH6EEAe-augment-onhit-synergies",
+    "bvid": "BV1qgWH6EEAe",
+    "hero": "薇恩",
+    "title": "海克斯联动：增加特效触发，再补攻速上限",
+    "summary": "双刀流、双发快射与战争交响乐是作者重点讲解的联动，结尾另列六张补充选择。",
+    "category": "海克斯",
+    "tags": [
+      "薇恩",
+      "VN",
+      "暗夜猎手",
+      "Vayne",
+      "嗡嗡怪兽",
+      "双刀流",
+      "双发快射",
+      "战争交响乐",
+      "致命节奏",
+      "征服者",
+      "注魔",
+      "伤不过三",
+      "易损",
+      "将他们放倒倒倒",
+      "将他们放倒",
+      "火上浇油",
+      "踢踏舞",
+      "天使",
+      "凯尔",
+      "大嘴",
+      "克格莫",
+      "韦鲁斯"
+    ],
+    "time": 80,
+    "timeLabel": "01:20–01:41",
+    "imageTime": 98,
+    "sections": [
+      {
+        "heading": "增加攻击特效的触发",
+        "text": "原片先列「双刀流」「双发快射」。双刀流卡面写明攻击时额外发射一根弩箭，施加效能削减的攻击特效，并获得 20% 攻速；双发快射卡面写明暴击会额外施加一次攻击特效，并获得 25% 暴击几率。作者用「5.0 攻速等于 10.0 攻速」形容联动，重点是多次触发特效。"
+      },
+      {
+        "heading": "战争交响乐对应什么",
+        "text": "画面准确名为「战争交响乐」，卡面给予致命节奏和征服者。作者强调这套高攻速能快速触发致命节奏，并称原片当时的致命节奏还有攻速加成伤害、可将攻速上限提高到 10.0；这里保留原片机制说明，未经当前版本实机复测。"
+      },
+      {
+        "heading": "结尾六张补充选择",
+        "items": [
+          "注魔、伤不过三、易损。",
+          "将他们放倒倒倒、火上浇油、踢踏舞。",
+          "原片没有给这六张作统一分级；结尾还点名天使、大嘴、韦鲁斯可考虑嗡嗡怪兽，但没有展开它们的具体装备路线。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "label": "双刀流、双发快射卡面",
+        "time": 82,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=82"
+      },
+      {
+        "label": "战争交响乐与致命节奏联动",
+        "time": 86,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=86"
+      },
+      {
+        "label": "原片对 10.0 攻速上限的说明",
+        "time": 91,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=91"
+      },
+      {
+        "label": "六张补充海克斯完整画面",
+        "time": 98,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=98"
+      },
+      {
+        "label": "作者点名的其他适配英雄",
+        "time": 100,
+        "url": "https://www.bilibili.com/video/BV1qgWH6EEAe/?t=100"
+      }
+    ],
+    "image": "assets/frames/BV1qgWH6EEAe-augment-onhit-synergies.webp",
+    "fullImage": "assets/frames/BV1qgWH6EEAe-augment-onhit-synergies.jpg"
+  },
+  {
+    "id": "BV1RvxZ6REJS-matched-ew-cooldowns",
+    "bvid": "BV1RvxZ6REJS",
+    "hero": "皇子",
+    "title": "E、W 要对齐：单独拿面包会抬高门槛",
+    "summary": "大法师循环还要看两技能的冷却关系，不能只追一个技能的急速。",
+    "category": "机制",
+    "tags": [
+      "皇子",
+      "嘉文四世",
+      "德玛西亚皇子",
+      "大法师",
+      "E",
+      "W",
+      "面包W",
+      "面包E",
+      "面包和果酱",
+      "面包与奶酪",
+      "冷却对齐",
+      "技能急速"
+    ],
+    "time": 90,
+    "timeLabel": "01:30–01:35",
+    "image": "assets/frames/BV1RvxZ6REJS-matched-ew-cooldowns.webp",
+    "fullImage": "assets/frames/BV1RvxZ6REJS-matched-ew-cooldowns.jpg",
+    "imageTime": 91,
+    "sections": [
+      {
+        "heading": "先建立互刷关系",
+        "text": "大法师施放一个技能后，返还另一个随机技能 30% 的基础冷却。作者用皇子满级 E、W 冷却接近的关系做循环，本片给出的成型参考为约 200 技能急速。"
+      },
+      {
+        "heading": "新片特别补充的禁忌",
+        "text": "作者明确不推荐单独拿“面包 W”或“面包 E”：只改变一边会拉大冷却差，使互刷更难成型。判断标准应是两技能能否稳定轮转，不是某一项急速越高越好。"
+      },
+      {
+        "heading": "与已有皇子思路怎样衔接",
+        "text": "站内太农原片已介绍 E、W 互刷与 WASD。本片新增的是单技能强化破坏冷却对齐的提醒；约 200 是这位作者的当期口径，不能与另一原片约 230 的参考合并成统一保证值。"
+      }
+    ],
+    "references": [
+      {
+        "label": "大法师返还基础冷却的说明",
+        "time": 28,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=28"
+      },
+      {
+        "label": "E、W 冷却接近与约 200 急速参考",
+        "time": 31,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=31"
+      },
+      {
+        "label": "不要单独拿面包 W 或面包 E",
+        "time": 90,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=90"
+      }
+    ]
+  },
+  {
+    "id": "BV1RvxZ6REJS-bee-bass-transition",
+    "bvid": "BV1RvxZ6REJS",
+    "hero": "皇子",
+    "title": "没等到大法师：小蜜蜂＋低音先过渡",
+    "summary": "用特效与 AP 装保留输出，命运之武器优先考虑升级视界专注。",
+    "category": "出装",
+    "tags": [
+      "皇子",
+      "AP皇子",
+      "小蜜蜂",
+      "鼓声暴起",
+      "低音轰鸣",
+      "纳什之牙",
+      "视界专注",
+      "火炬",
+      "命运之武器",
+      "过渡"
+    ],
+    "time": 43,
+    "timeLabel": "00:43–00:57",
+    "image": "assets/frames/BV1RvxZ6REJS-bee-bass-transition.webp",
+    "fullImage": "assets/frames/BV1RvxZ6REJS-bee-bass-transition.jpg",
+    "imageTime": 54,
+    "sections": [
+      {
+        "heading": "没有大法师时先做什么",
+        "text": "原片建议先找小蜜蜂加鼓声暴起·低音轰鸣，并搭配纳什之牙、视界专注和火炬，先维持 AP 皇子的输出，而不是一开始就等完整无限 E 体系。"
+      },
+      {
+        "heading": "升级装备的选择",
+        "text": "拿到命运之武器时，作者推荐升级视界专注，理由是法强和技能急速同时适配后续路线。该强化和升级顺序有前提，并非所有局都能直接获得升级装备。"
+      },
+      {
+        "heading": "这条分支的边界",
+        "text": "这是大法师未到手前的过渡输出方案，不能把“小蜜蜂＋低音”直接等同于已满足 E、W 无缝互刷条件。字幕误写“世界专注”，结合装备与既有名称统一为视界专注。"
+      }
+    ],
+    "references": [
+      {
+        "label": "未拿到大法师时的过渡选择",
+        "time": 43,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=43"
+      },
+      {
+        "label": "纳什、视界专注与火炬",
+        "time": 47,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=47"
+      },
+      {
+        "label": "命运之武器升级视界专注",
+        "time": 51,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=51"
+      }
+    ]
+  },
+  {
+    "id": "BV1RvxZ6REJS-flag-as-mana",
+    "bvid": "BV1RvxZ6REJS",
+    "hero": "皇子",
+    "title": "旗帜攻速转急速：术师加速成型，蓝量支撑护盾",
+    "summary": "E 自带攻速可经术师转成急速；频繁 W 仍要有足够法力。",
+    "category": "海克斯",
+    "tags": [
+      "皇子",
+      "纯粹主义者",
+      "术师",
+      "术士",
+      "E",
+      "德邦军旗",
+      "攻速转急速",
+      "清晰术",
+      "蓝量",
+      "护盾"
+    ],
+    "time": 58,
+    "timeLabel": "00:58–01:10",
+    "image": "assets/frames/BV1RvxZ6REJS-flag-as-mana.webp",
+    "fullImage": "assets/frames/BV1RvxZ6REJS-flag-as-mana.jpg",
+    "imageTime": 60,
+    "sections": [
+      {
+        "heading": "把技能自带属性接入强化",
+        "text": "纯粹主义者·术师把攻速转成技能急速。原片展示皇子满级旗帜自带 30% 攻速，作者用它补急速、加快 E、W 体系成型。数值按本片版本说明保留。"
+      },
+      {
+        "heading": "护盾循环的资源条件",
+        "text": "作者把“蓝量够用”作为连续 W 护盾的前提；有刷新频率也要付技能法力消耗，不能省略资源条件。"
+      },
+      {
+        "heading": "召唤师技能建议",
+        "text": "烧录字幕明确推荐清晰术来支撑一波团内持续施法。这是作者的续航搭配建议，原片没有证明它能覆盖任意持续时间或所有对手伤害。"
+      }
+    ],
+    "references": [
+      {
+        "label": "术师与旗帜 30% 攻速",
+        "time": 58,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=58"
+      },
+      {
+        "label": "蓝量足够才可持续护盾",
+        "time": 64,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=64"
+      },
+      {
+        "label": "清晰术的推荐",
+        "time": 67,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=67"
+      }
+    ]
+  },
+  {
+    "id": "BV1RvxZ6REJS-alternative-r-or-mystic",
+    "bvid": "BV1RvxZ6REJS",
+    "hero": "皇子",
+    "title": "两条备用转型：地形专家 R，或虚幻＋秘术冲拳",
+    "summary": "核心迟迟不来时保留转型；虚幻分支另有 E 冷却低于 3 秒的条件。",
+    "category": "海克斯",
+    "tags": [
+      "皇子",
+      "地形专家",
+      "AP大招",
+      "R",
+      "虚幻武器",
+      "秘术冲拳",
+      "E",
+      "备用路线"
+    ],
+    "time": 79,
+    "timeLabel": "01:19–01:30",
+    "image": "assets/frames/BV1RvxZ6REJS-alternative-r-or-mystic.webp",
+    "fullImage": "assets/frames/BV1RvxZ6REJS-alternative-r-or-mystic.jpg",
+    "imageTime": 88,
+    "sections": [
+      {
+        "heading": "R 方向的备用路线",
+        "text": "作者提出没有合适牌时可找地形专家，改走 AP 大招皇子。这里只是原片提出的备用方向，没有展示完整 R 流六件装备或与无限 E 等强的对照。"
+      },
+      {
+        "heading": "虚幻武器需要另一个联动项",
+        "text": "另一条分支是虚幻武器搭配秘术冲拳；卡面说明攻击会缩减非终极技能冷却，作者用虚幻把技能命中接入这条联动。不能只拿虚幻武器就宣称自动无限 E。"
+      },
+      {
+        "heading": "冷却条件",
+        "text": "原片要求后期把 E 的冷却压到 3 秒以下，才将这组搭配描述为可持续插旗。该门槛与前一条大法师 E、W 互刷属于不同组合，应分别核对。"
+      }
+    ],
+    "references": [
+      {
+        "label": "地形专家转 AP 大招",
+        "time": 79,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=79"
+      },
+      {
+        "label": "虚幻武器搭配秘术冲拳",
+        "time": 84,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=84"
+      },
+      {
+        "label": "E 冷却低于 3 秒的说明",
+        "time": 87,
+        "url": "https://www.bilibili.com/video/BV1RvxZ6REJS/?t=87"
+      }
+    ]
+  },
+  {
+    "id": "BV1FDxS6kEKz-qw-level-alignment",
+    "bvid": "BV1FDxS6kEKz",
+    "hero": "小炮",
+    "title": "飞天小炮：满级 Q＋4 级 W 对齐大法师循环",
+    "summary": "原片参考约 220 急速，先按指定技能等级建立 Q、W 互刷。",
+    "category": "机制",
+    "tags": [
+      "小炮",
+      "崔丝塔娜",
+      "麦林炮手",
+      "大法师",
+      "Q",
+      "W",
+      "火箭跳跃",
+      "技能等级",
+      "技能急速",
+      "额外攻击力"
+    ],
+    "time": 35,
+    "timeLabel": "00:35–00:51",
+    "image": "assets/frames/BV1FDxS6kEKz-qw-level-alignment.webp",
+    "fullImage": "assets/frames/BV1FDxS6kEKz-qw-level-alignment.jpg",
+    "imageTime": 43,
+    "sections": [
+      {
+        "heading": "循环的必要关系",
+        "text": "大法师让施放一个技能返还另一个随机技能 30% 的基础冷却。作者明确给出满级 Q、4 级 W，并以约 220 技能急速作为后期成型参考，再连续交替 Q、W。不要遗漏技能等级条件。"
+      },
+      {
+        "heading": "为什么堆攻击力也能砸人",
+        "text": "48 秒 W 提示框写的是 100% 额外攻击力加成，并造成魔法伤害，另有 AP 加成。它不是 100% 总攻击力，也不是因为出 AD 装就把 W 变成物理伤害。"
+      },
+      {
+        "heading": "强化方向",
+        "text": "大法师为核心；原片联动表列亮出你的剑（口播亮剑）、王冠之重、无限循环往复，备选科学狂人、命运之武器、大力、魔法转物理。选卡围绕高攻击力与技能急速，不代表缺核心也能同样飞天。"
+      }
+    ],
+    "references": [
+      {
+        "label": "核心与联动海克斯表",
+        "time": 21,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=21"
+      },
+      {
+        "label": "大法师的返还机制",
+        "time": 35,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=35"
+      },
+      {
+        "label": "约 220 急速与满 Q、4 级 W",
+        "time": 40,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=40"
+      },
+      {
+        "label": "W 的额外攻击力加成提示框",
+        "time": 46,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=46"
+      }
+    ]
+  },
+  {
+    "id": "BV1FDxS6kEKz-ad-tear-transition",
+    "bvid": "BV1FDxS6kEKz",
+    "hero": "小炮",
+    "title": "飞天前先能打：守护者之刃＋女神泪过渡",
+    "summary": "先叠蓝量、保留正常 AD 发育，拿到核心再转循环装。",
+    "category": "出装",
+    "tags": [
+      "小炮",
+      "守护者之刃",
+      "女神之泪",
+      "蓝量",
+      "收集者",
+      "无尽之刃",
+      "过渡",
+      "大法师"
+    ],
+    "time": 51,
+    "timeLabel": "00:51–01:10",
+    "image": "assets/frames/BV1FDxS6kEKz-ad-tear-transition.webp",
+    "fullImage": "assets/frames/BV1FDxS6kEKz-ad-tear-transition.jpg",
+    "imageTime": 54,
+    "sections": [
+      {
+        "heading": "出门保留什么",
+        "text": "作者推荐守护者之刃加女神之泪；原片强调守护者之刃有 15 技能急速，可保留到体系成型，同时及早叠女神泪，避免后期连续施法时蓝量不够。"
+      },
+      {
+        "heading": "核心到来前的发育路线",
+        "text": "烧录字幕与口播都建议前期正常走 AD，使用收集者加无尽平稳过渡。没有大法师时仍可作为常规小炮输出，不要求无条件提前换成所有循环装备。"
+      },
+      {
+        "heading": "什么时候可以存钱",
+        "text": "压力不大、等级尚未到成型要求时，原片提出可以暂存金币；这是有局势条件的选择，不能照搬成前期一律不买装备。"
+      }
+    ],
+    "references": [
+      {
+        "label": "守护者之刃与女神泪",
+        "time": 52,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=52"
+      },
+      {
+        "label": "15 急速与提前叠泪",
+        "time": 55,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=55"
+      },
+      {
+        "label": "正常 AD：收集者加无尽",
+        "time": 61,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=61"
+      },
+      {
+        "label": "压力不大、等级未到时可存钱",
+        "time": 65,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=65"
+      }
+    ]
+  },
+  {
+    "id": "BV1FDxS6kEKz-ad-to-haste-items",
+    "bvid": "BV1FDxS6kEKz",
+    "hero": "小炮",
+    "title": "拿到大法师再转装：高攻击力接无穷饥渴",
+    "summary": "魔切、无穷饥渴、青龙刀承担成型；亮剑与命运之武器各有补装分支。",
+    "category": "出装",
+    "tags": [
+      "小炮",
+      "魔切",
+      "无穷饥渴",
+      "青龙刀",
+      "朔极之矛",
+      "狂妄",
+      "星蚀",
+      "亮出你的剑",
+      "亮剑",
+      "命运之武器",
+      "攻击力转急速"
+    ],
+    "time": 70,
+    "timeLabel": "01:10–01:29",
+    "image": "assets/frames/BV1FDxS6kEKz-ad-to-haste-items.webp",
+    "fullImage": "assets/frames/BV1FDxS6kEKz-ad-to-haste-items.jpg",
+    "imageTime": 72,
+    "sections": [
+      {
+        "heading": "核心出现后再转",
+        "text": "拿到大法师后，作者推荐魔切、无穷饥渴和青龙刀。思路是用后期较高攻击力，经无穷饥渴接入技能急速，再补同时带攻击力与急速的装备。"
+      },
+      {
+        "heading": "亮剑分支",
+        "text": "有亮出你的剑时可以更早补狂妄，继续提高攻击力。这个建议有强化前提，不是所有局都要优先狂妄。"
+      },
+      {
+        "heading": "命运之武器分支",
+        "text": "原片另提出早期有命运之武器时可以做星蚀，利用其攻击力和急速适配后续升级。它是可选分支，不能把星蚀、狂妄与全部推荐装都当成同时必备。"
+      }
+    ],
+    "references": [
+      {
+        "label": "转为魔切、无穷饥渴、青龙刀",
+        "time": 70,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=70"
+      },
+      {
+        "label": "亮剑与提前狂妄",
+        "time": 73,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=73"
+      },
+      {
+        "label": "攻击力接无穷饥渴转急速",
+        "time": 76,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=76"
+      },
+      {
+        "label": "命运之武器与星蚀",
+        "time": 85,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=85"
+      }
+    ]
+  },
+  {
+    "id": "BV1FDxS6kEKz-caster-speed-tradeoff",
+    "bvid": "BV1FDxS6kEKz",
+    "hero": "小炮",
+    "title": "术师能更快飞天，也会锁住小炮的攻速",
+    "summary": "把 Q 的攻速转急速有明显代价：作者同时提示常规输出缩水。",
+    "category": "海克斯",
+    "tags": [
+      "小炮",
+      "纯粹主义者",
+      "术师",
+      "术士",
+      "Q",
+      "攻速转急速",
+      "锁攻速",
+      "伤害取舍"
+    ],
+    "time": 90,
+    "timeLabel": "01:30–01:42",
+    "image": "assets/frames/BV1FDxS6kEKz-caster-speed-tradeoff.webp",
+    "fullImage": "assets/frames/BV1FDxS6kEKz-caster-speed-tradeoff.jpg",
+    "imageTime": 99,
+    "sections": [
+      {
+        "heading": "为什么成型更快",
+        "text": "原片提出纯粹主义者·术师作为更快成型的分支：满级 Q 自带 120% 攻速，能够转成技能急速，接入大法师的 Q、W 循环。"
+      },
+      {
+        "heading": "不能漏掉的代价",
+        "text": "作者紧接着说明该强化会锁攻速，并使伤害缩水。加快“飞天”与保留传统高攻速普攻输出并不是同一个目标，选择前要接受这种取舍。"
+      },
+      {
+        "heading": "适用范围",
+        "text": "这条是作者偏玩法体验的备选，仍需要大法师、相应技能等级和急速条件；没有证明术师单独就能无限跳，也没有给出它胜率更高的结论。"
+      }
+    ],
+    "references": [
+      {
+        "label": "术师作为加速成型的分支",
+        "time": 90,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=90"
+      },
+      {
+        "label": "满级 Q 的 120% 攻速",
+        "time": 93,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=93"
+      },
+      {
+        "label": "锁攻速与伤害缩水",
+        "time": 98,
+        "url": "https://www.bilibili.com/video/BV1FDxS6kEKz/?t=98"
+      }
+    ]
+  },
+  {
+    "id": "BV1Swxd6zE1a-empowered-waq-double",
+    "bvid": "BV1Swxd6zE1a",
+    "hero": "潘森",
+    "title": "强化 W 的三连击中穿 Q：瞬间两次装甲冲击",
+    "summary": "先用强化 W 打出一轮，再在三连普攻过程中以 Q 补出第二轮。",
+    "category": "操作",
+    "tags": [
+      "潘森",
+      "不屈之枪",
+      "装甲冲击",
+      "强化W",
+      "红怒W",
+      "矢志不退",
+      "WAQ",
+      "三连击",
+      "护甲穿透"
+    ],
+    "time": 21,
+    "timeLabel": "00:21–00:56",
+    "image": "assets/frames/BV1Swxd6zE1a-empowered-waq-double.webp",
+    "fullImage": "assets/frames/BV1Swxd6zE1a-empowered-waq-double.jpg",
+    "imageTime": 44,
+    "sections": [
+      {
+        "heading": "为什么护甲装能变输出",
+        "text": "原片说明装甲冲击在施法后的下一次普攻附加按护甲缩放的物理伤害，作者口径为 250%。潘森的 R 提示框还显示 30% 护甲穿透，用来支撑后期这部分物理伤害；数值按本片当期画面保留。"
+      },
+      {
+        "heading": "关键操作顺序",
+        "text": "先满层被动使用强化 W，获得下一次普攻打击三次的效果；跳上去普攻的过程中按 Q，让后续打击再消耗 Q 新触发的装甲冲击。重点是 Q 穿插在三连击中，不是三下全部结束后才按。"
+      },
+      {
+        "heading": "原片证明到哪里",
+        "text": "作者用小法片段演示这一时序下的两次装甲冲击。它是强化 W、普攻与 Q 的连续触发，不是单按 W 无条件获得两次，也不代表任意护甲值都能秒杀。"
+      }
+    ],
+    "references": [
+      {
+        "label": "装甲冲击的触发与护甲缩放",
+        "time": 21,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=21"
+      },
+      {
+        "label": "R 的 30% 护甲穿透提示框",
+        "time": 30,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=30"
+      },
+      {
+        "label": "强化 W 三连击与中途按 Q",
+        "time": 38,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=38"
+      },
+      {
+        "label": "对小法的连招演示",
+        "time": 48,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=48"
+      }
+    ]
+  },
+  {
+    "id": "BV1Swxd6zE1a-e-deathdance-window",
+    "bvid": "BV1Swxd6zE1a",
+    "hero": "潘森",
+    "title": "E＋死之舞：保留不死窗口的原片时点",
+    "summary": "这是当期录像中的异常联动；连续衔接另需 E 冷却低于 5 秒。",
+    "category": "机制",
+    "tags": [
+      "潘森",
+      "E",
+      "神佑枪阵",
+      "死之舞",
+      "不可被击杀",
+      "不死窗口",
+      "永久无敌",
+      "冷却条件",
+      "历史机制"
+    ],
+    "time": 57,
+    "timeLabel": "00:57–01:12",
+    "image": "assets/frames/BV1Swxd6zE1a-e-deathdance-window.webp",
+    "fullImage": "assets/frames/BV1Swxd6zE1a-e-deathdance-window.jpg",
+    "imageTime": 62,
+    "sections": [
+      {
+        "heading": "先区分效果",
+        "text": "死之舞卡面写的是短时不可被击杀，通常还要求在 5 秒内参与击杀，否则会结算死亡。它不是全程免疫伤害；原片把这段不死窗口口头称为“无敌”。"
+      },
+      {
+        "heading": "作者演示的操作时点",
+        "text": "先开 E，再按原片红框指示的读条收尾时点使用死之舞。作者称这会使死之舞不进入通常的冷却，并在该次示例中即使未参与击杀也保留不死效果。具体按键窗口应回看原片动作，视频未给逐帧容错范围。"
+      },
+      {
+        "heading": "“永久”有额外前提",
+        "text": "作者另提出 E 冷却必须低于 5 秒才可连续衔接。所示片段中 E 还出现 12–19 秒冷却，不能把标题直接当作本局已经达成常驻效果的证明；当前版本是否仍能复现也未经独立实测。"
+      }
+    ],
+    "references": [
+      {
+        "label": "潘森与死之舞的联动介绍",
+        "time": 57,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=57"
+      },
+      {
+        "label": "E 读条与红框标注的按键时点",
+        "time": 60,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=60"
+      },
+      {
+        "label": "不进入通常冷却及保留窗口的说明",
+        "time": 63,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=63"
+      },
+      {
+        "label": "E 冷却低于 5 秒的附加条件",
+        "time": 69,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=69"
+      },
+      {
+        "label": "死之舞卡面：不可被击杀与参与击杀条件",
+        "time": 114,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=114"
+      }
+    ]
+  },
+  {
+    "id": "BV1Swxd6zE1a-four-stack-burst",
+    "bvid": "BV1Swxd6zE1a",
+    "hero": "潘森",
+    "title": "四层被动起手：E 后先 A，再强化 WAQ",
+    "summary": "先花掉 E 带来的装甲冲击，再用满层 W 与 Q 打出下一轮爆发。",
+    "category": "操作",
+    "tags": [
+      "潘森",
+      "装甲冲击",
+      "死之舞",
+      "E",
+      "WAQ",
+      "四层被动",
+      "满层被动",
+      "实战连招"
+    ],
+    "time": 84,
+    "timeLabel": "01:24–01:43",
+    "image": "assets/frames/BV1Swxd6zE1a-four-stack-burst.webp",
+    "fullImage": "assets/frames/BV1Swxd6zE1a-four-stack-burst.jpg",
+    "imageTime": 93,
+    "sections": [
+      {
+        "heading": "起手准备",
+        "text": "作者实战讲解要求先保留四层被动。这里口播称“怒气”，实际对应潘森被动层数；先用 E 配合死之舞提供进场窗口。"
+      },
+      {
+        "heading": "把每次施法都接到普攻",
+        "text": "先上前 A 一下，消耗 E 触发的装甲冲击；随后用满层强化 W，在三连普攻中穿 Q，再打出两次装甲冲击。不要省略前面的 A，否则会丢掉原片强调的一次兑现机会。"
+      },
+      {
+        "heading": "实战功能",
+        "text": "后一个片段以残血 E 挡大树方向的伤害，并配合死之舞继续行动。该片段用于说明进场和技能穿插，不把“挡住一个方向”扩写成 E 能免疫任意来源。"
+      }
+    ],
+    "references": [
+      {
+        "label": "保留四层被动",
+        "time": 86,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=86"
+      },
+      {
+        "label": "E 配合死之舞",
+        "time": 87,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=87"
+      },
+      {
+        "label": "先 A 消耗一次装甲冲击",
+        "time": 89,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=89"
+      },
+      {
+        "label": "满层 WAQ 再打两次",
+        "time": 91,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=91"
+      },
+      {
+        "label": "残血 E 与继续行动的实战",
+        "time": 96,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=96"
+      }
+    ]
+  },
+  {
+    "id": "BV1Swxd6zE1a-armor-health-conversion",
+    "bvid": "BV1Swxd6zE1a",
+    "hero": "潘森",
+    "title": "护甲装打伤害：锁子甲过渡，额外生命转穿甲",
+    "summary": "护甲支撑装甲冲击；本局另靠溺水之赠礼把装备额外生命接入穿甲。",
+    "category": "出装",
+    "tags": [
+      "潘森",
+      "装甲冲击",
+      "溺水之赠礼",
+      "逆水之真理",
+      "锁子甲",
+      "护甲",
+      "穿甲",
+      "兰顿之兆",
+      "死亡之舞",
+      "冰霜之心",
+      "回归基本功",
+      "全凭身法",
+      "鼓声暴起",
+      "低音轰鸣",
+      "面包和果酱",
+      "命运之武器",
+      "孤勇者",
+      "大师铸就"
+    ],
+    "time": 72,
+    "timeLabel": "01:12–02:00",
+    "image": "assets/frames/BV1Swxd6zE1a-armor-health-conversion.webp",
+    "fullImage": "assets/frames/BV1Swxd6zE1a-armor-health-conversion.jpg",
+    "imageTime": 110,
+    "sections": [
+      {
+        "heading": "本局怎样补第二种输出属性",
+        "text": "实际卡面名称是溺水之赠礼，说明额外生命转为穿甲。作者口播与字幕称其“逆水之真理”，并用它将装备生命属性转成穿甲，服务装甲冲击的物理伤害。这个转换依赖相应强化，不能泛化为所有护甲局自带。"
+      },
+      {
+        "heading": "装备的先后",
+        "text": "原片建议先用五个锁子甲堆护甲，再看局势逐步合成成装；另明确提到兰顿、死亡之舞和冰心可选。这里死亡之舞指装备，与前文“死之舞”海克斯分开。原片未逐件讲清推荐图全部装备的固定购买顺序。"
+      },
+      {
+        "heading": "选卡表的层级",
+        "text": "装甲冲击为必备。联动表列回归基本功、死之舞、全凭身法、鼓声暴起·低音轰鸣、面包和果酱、命运之武器、孤勇者，并在结尾口播补充大师铸就。它们是备选池，原片没有把所有组合分别实测。"
+      },
+      {
+        "heading": "不要混淆两条条件",
+        "text": "增加护甲主要抬装甲冲击伤害，补技能急速主要抬施法频率；只有另满足死之舞的时点与 E 冷却要求，才涉及前一张卡的不死窗口衔接。"
+      }
+    ],
+    "references": [
+      {
+        "label": "本局四项强化与卡面",
+        "time": 72,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=72"
+      },
+      {
+        "label": "额外生命转穿甲的说明",
+        "time": 76,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=76"
+      },
+      {
+        "label": "五锁子甲过渡及后期合成",
+        "time": 104,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=104"
+      },
+      {
+        "label": "兰顿、死亡之舞、冰心的可选项",
+        "time": 108,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=108"
+      },
+      {
+        "label": "必备与联动海克斯表",
+        "time": 111,
+        "url": "https://www.bilibili.com/video/BV1Swxd6zE1a/?t=111"
+      }
+    ]
+  },
+  {
+    "id": "BV1cDx465Epv-mana-barrier",
+    "bvid": "BV1cDx465Epv",
+    "hero": "死歌",
+    "title": "实现器＋蓝色屏障：把持续耗蓝变成续航",
+    "summary": "利用死歌持续耗蓝触发蓝色屏障，再借实现器的强化窗口放大法力消耗、护盾和治疗；实现器的增益有持续期和冷却。",
+    "category": "机制",
+    "tags": [
+      "死歌",
+      "卡尔萨斯",
+      "死亡颂唱者",
+      "Karthus",
+      "实现器",
+      "蓝色屏障",
+      "法力消耗",
+      "护盾",
+      "持续耗蓝"
+    ],
+    "time": 6,
+    "timeLabel": "00:06–00:28",
+    "image": "assets/frames/BV1cDx465Epv-mana-barrier.webp",
+    "fullImage": "assets/frames/BV1cDx465Epv-mana-barrier.jpg",
+    "imageTime": 16,
+    "versionNote": "2026-11-01 原片；按作者当时讲解与画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "两个部件怎样联动",
+        "items": [
+          "原片玩法是死歌搭配装备「实现器」和海克斯「蓝色屏障」。作者选择死歌，是因为它可以持续消耗法力值。",
+          "蓝色屏障按花费的法力值提供护盾。原片卡面写明护盾持续 1.5 秒，作者强调它没有内置冷却；这里按原片机制记录。",
+          "实现器强化期间技能额外消耗 100% 法力值，并增加技能伤害、护盾与治疗、加快基础技能冷却恢复；因此更高耗蓝也为蓝色屏障提供了联动空间。"
+        ]
+      },
+      {
+        "heading": "实现器不是全程翻倍耗蓝",
+        "text": "原片 10 秒处的实现器说明显示：强化效果持续 8 秒、冷却 60 秒。这些收益有生效窗口，不能把整套玩法写成永久法力消耗翻倍。"
+      },
+      {
+        "heading": "从死歌扩展到适配方向",
+        "text": "作者将蓝色屏障的适配分为三类：单次耗蓝高，如卡萨丁；技能冷却快，如蛇女；持续耗蓝，如炼金与死歌。这是作者给出的选择思路，不表示这些英雄的完整构筑在本片都经过演示。"
+      }
+    ],
+    "references": [
+      {
+        "label": "死歌与双部件组合",
+        "time": 6,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=6"
+      },
+      {
+        "label": "实现器说明：8 秒持续、60 秒冷却",
+        "time": 10,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=10"
+      },
+      {
+        "label": "蓝色屏障说明与无内置冷却口播",
+        "time": 14,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=14"
+      },
+      {
+        "label": "高耗蓝、短冷却、持续耗蓝三种适配",
+        "time": 18,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=18"
+      }
+    ]
+  },
+  {
+    "id": "BV1cDx465Epv-slow-burn-build",
+    "bvid": "BV1cDx465Epv",
+    "hero": "死歌",
+    "title": "出装先把存活时间拉长，让面具和裂隙持续增伤",
+    "summary": "女神泪起手，按时光杖→实现器→面具→裂隙制造者推进；用耗蓝回血和护盾拖长近身持续输出时间。",
+    "category": "出装",
+    "tags": [
+      "死歌",
+      "卡尔萨斯",
+      "女神泪",
+      "女神之泪",
+      "时光之杖",
+      "时光杖",
+      "实现器",
+      "面具",
+      "裂隙制造者",
+      "持续伤害",
+      "续航"
+    ],
+    "time": 28,
+    "timeLabel": "00:28–00:50",
+    "image": "assets/frames/BV1cDx465Epv-slow-burn-build.webp",
+    "fullImage": "assets/frames/BV1cDx465Epv-slow-burn-build.jpg",
+    "imageTime": 43,
+    "versionNote": "2026-11-01 原片；按作者当时讲解与画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "原片给出的顺序",
+        "items": [
+          "女神泪起手。",
+          "随后时光杖、实现器，再接面具与裂隙制造者。原片 43 秒处同时展示了这五个装备图标。"
+        ]
+      },
+      {
+        "heading": "为什么叫缓慢地送",
+        "text": "作者的意思是延长贴近敌人的持续作战过程。时光杖将消耗的法力值转化为回血，蓝色屏障提供护盾；实现器强化窗口再放大伤害、护盾和治疗。玩法目标是用续航争取持续输出时间。"
+      },
+      {
+        "heading": "让持续增伤有时间叠起来",
+        "text": "作者选择面具和裂隙制造者，目的是在较长的交战中吃到它们的增伤。原片口播称每波都能吃满，这里按构筑意图记录，不把每次交战都能叠满或存活固定时长视为保证。"
+      }
+    ],
+    "references": [
+      {
+        "label": "缓慢、有计划地送的玩法解释",
+        "time": 28,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=28"
+      },
+      {
+        "label": "女神泪到裂隙制造者的出装顺序",
+        "time": 39,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=39"
+      },
+      {
+        "label": "时光杖耗蓝回血、面具与裂隙增伤",
+        "time": 43,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=43"
+      }
+    ]
+  },
+  {
+    "id": "BV1cDx465Epv-hex-priorities",
+    "bvid": "BV1cDx465Epv",
+    "hero": "死歌",
+    "title": "小丑学院补隐身与自爆，其他强化按原片两档表选",
+    "summary": "核心蓝色屏障之外，小丑学院让烧血、回血、叠盾与最后自爆相连；片尾将其他强化分为首选和次选。",
+    "category": "海克斯",
+    "tags": [
+      "死歌",
+      "卡尔萨斯",
+      "蓝色屏障",
+      "小丑学院",
+      "回归基本功",
+      "俯冲轰炸",
+      "溢流",
+      "命运之武器",
+      "术士果汁盒",
+      "超凡邪恶",
+      "逃跑计划",
+      "魔法飞弹",
+      "由心及物",
+      "海洋龙魂",
+      "蛋白粉奶昔"
+    ],
+    "time": 50,
+    "timeLabel": "00:50–01:01",
+    "image": "assets/frames/BV1cDx465Epv-hex-priorities.webp",
+    "fullImage": "assets/frames/BV1cDx465Epv-hex-priorities.jpg",
+    "imageTime": 59,
+    "versionNote": "2026-11-01 原片；按作者当时讲解与画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "作者特别点名的联动",
+        "text": "小丑学院是作者额外强调的选择：隐身后继续烧血、吸血和叠护盾，最后还可自爆。这是建立在前两张卡构筑上的补强，不是蓝色屏障的替代品。"
+      },
+      {
+        "heading": "片尾首选表",
+        "items": [
+          "小丑学院、回归基本功。",
+          "俯冲轰炸、溢流。",
+          "命运之武器、术士果汁盒。"
+        ]
+      },
+      {
+        "heading": "片尾次选表",
+        "items": [
+          "超凡邪恶、逃跑计划。",
+          "魔法飞弹、由心及物。",
+          "海洋龙魂、蛋白粉奶昔。"
+        ]
+      },
+      {
+        "heading": "评级的使用边界",
+        "text": "首选、次选沿用这条视频针对该玩法的推荐表；它们不是一局必须拿齐的清单，也不是独立统计得出的通用强度榜。片尾表未再重复列蓝色屏障，核心组合仍见前文。"
+      }
+    ],
+    "references": [
+      {
+        "label": "小丑学院的隐身、烧血和自爆联动",
+        "time": 50,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=50"
+      },
+      {
+        "label": "片尾首选与次选海克斯表",
+        "time": 59,
+        "url": "https://www.bilibili.com/video/BV1cDx465Epv/?t=59"
+      }
+    ]
+  },
+  {
+    "id": "BV1HEpq6NEC4-crit-missile-loop",
+    "bvid": "BV1HEpq6NEC4",
+    "hero": "蛮王",
+    "title": "万剑归宗：死亡之环、暴击飞弹与吸血相互触发",
+    "summary": "作者演示蛮王以死亡之环持续伤害触发暴击，再接暴击飞弹和全能吸血，把伤害与回血串成反馈链。",
+    "category": "机制",
+    "tags": [
+      "蛮王",
+      "泰达米尔",
+      "蛮族之王",
+      "Tryndamere",
+      "万剑归宗",
+      "暴击飞弹",
+      "易损",
+      "死亡之环",
+      "持续伤害",
+      "全能吸血"
+    ],
+    "time": 6,
+    "timeLabel": "00:06–00:19",
+    "image": "assets/frames/BV1HEpq6NEC4-crit-missile-loop.webp",
+    "fullImage": "assets/frames/BV1HEpq6NEC4-crit-missile-loop.jpg",
+    "imageTime": 14,
+    "versionNote": "2026-10-13 原片；按作者当时讲解与画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "按原片解释拆开反馈链",
+        "items": [
+          "死亡之环的伤害在原片讲解中被视为持续伤害。",
+          "「易损」让死亡之环的持续伤害可以暴击。",
+          "暴击触发「暴击飞弹」，飞弹伤害再通过全能吸血形成回复。",
+          "回复继续触发「死亡之环」对敌方英雄造成伤害，作者据此解释画面中的反复飞弹与回血。"
+        ]
+      },
+      {
+        "heading": "为什么不能少看全能吸血",
+        "text": "三张海克斯之外，作者的机制链还明确依赖全能吸血。只有“飞弹造成伤害”而没有相应回复，就不能直接照搬原片描述的后半段反馈。视频没有提供全能吸血来源的逐件出装教学。"
+      },
+      {
+        "heading": "原片实战与验证边界",
+        "text": "片中实战能观察到蛮王身边反复出现飞弹、伤害数字和回血。反馈链的因果解释来自作者配音与字幕；本库未在当前版本游戏中逐项复测，也不把剪辑效果写成固定伤害或必定无限触发。"
+      }
+    ],
+    "references": [
+      {
+        "label": "死亡之环被视为持续伤害",
+        "time": 6,
+        "url": "https://www.bilibili.com/video/BV1HEpq6NEC4/?t=6"
+      },
+      {
+        "label": "易损让持续伤害暴击，触发飞弹",
+        "time": 9,
+        "url": "https://www.bilibili.com/video/BV1HEpq6NEC4/?t=9"
+      },
+      {
+        "label": "飞弹、全能吸血与死亡之环的反馈",
+        "time": 12,
+        "url": "https://www.bilibili.com/video/BV1HEpq6NEC4/?t=12"
+      }
+    ]
+  },
+  {
+    "id": "BV1HEpq6NEC4-hex-checklist",
+    "bvid": "BV1HEpq6NEC4",
+    "hero": "蛮王",
+    "title": "复现前先核对三张核心与两项属性",
+    "summary": "暴击飞弹、易损、死亡之环各负责一段触发；再核对暴击和全能吸血，不能把普通蛮王出装当作这套组合已经成型。",
+    "category": "海克斯",
+    "tags": [
+      "蛮王",
+      "泰达米尔",
+      "Tryndamere",
+      "暴击飞弹",
+      "易损",
+      "死亡之环",
+      "暴击几率",
+      "全能吸血",
+      "成型条件"
+    ],
+    "time": 2,
+    "timeLabel": "00:02–00:07",
+    "image": "assets/frames/BV1HEpq6NEC4-hex-checklist.webp",
+    "fullImage": "assets/frames/BV1HEpq6NEC4-hex-checklist.jpg",
+    "imageTime": 6.5,
+    "versionNote": "2026-10-13 原片；按作者当时讲解与画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "三张核心各自做什么",
+        "items": [
+          "暴击飞弹：原片卡牌写明暴击时发射 3 枚魔法伤害飞弹，并提供 25% 暴击几率。",
+          "易损：原片卡牌写明装备效果、持续伤害效果可以暴击，并提供 25% 暴击几率。",
+          "死亡之环：原片卡牌写明治疗效果和生命回复效果会对最近的敌方英雄造成魔法伤害。数值均为当时卡面展示。"
+        ]
+      },
+      {
+        "heading": "成型前还要检查的属性",
+        "text": "暴击几率决定相关效果触发的机会，全能吸血则是作者反馈链中的回复来源。本局后期面板能看到 100% 暴击，但原片没有给出固定必需暴击阈值、全能吸血最低值或完整装备顺序，因此不编写统一成装模板。"
+      },
+      {
+        "heading": "这是一局组合展示",
+        "text": "作者开头标明粉丝投稿，称这组海克斯很难凑齐。它适合作为已经拿到相关强化时的检索思路；视频没有证明每局都能稳定获得，也没有把其他选项评价为所有情况下都更弱。"
+      }
+    ],
+    "references": [
+      {
+        "label": "暴击飞弹的卡牌说明",
+        "time": 3,
+        "url": "https://www.bilibili.com/video/BV1HEpq6NEC4/?t=3"
+      },
+      {
+        "label": "易损的卡牌说明",
+        "time": 5,
+        "url": "https://www.bilibili.com/video/BV1HEpq6NEC4/?t=5"
+      },
+      {
+        "label": "死亡之环的卡牌说明",
+        "time": 6,
+        "url": "https://www.bilibili.com/video/BV1HEpq6NEC4/?t=6"
+      },
+      {
+        "label": "后期蛮王面板与组合展示",
+        "time": 14,
+        "url": "https://www.bilibili.com/video/BV1HEpq6NEC4/?t=14"
+      }
+    ]
+  },
+  {
+    "id": "xhs-6aefe740-ad-to-speed",
+    "bvid": "xhs-6aefe7400000000019001e1a",
+    "hero": "薇恩",
+    "title": "激光 VN 的成型思路：先用高攻击力堆到 5.0 攻速",
+    "summary": "围绕嗡嗡怪兽把攻击力转成攻速，快速触发 W 三环；封顶后再逐步转攻击特效。",
+    "category": "机制",
+    "tags": [
+      "薇恩",
+      "VN",
+      "Vayne",
+      "暗夜猎手",
+      "嗡嗡怪兽",
+      "5.0攻速",
+      "攻击力",
+      "攻击特效",
+      "W",
+      "三环",
+      "收集者"
+    ],
+    "time": 24,
+    "timeLabel": "00:24–00:47",
+    "imageTime": 27,
+    "sections": [
+      {
+        "heading": "原片的转换机制",
+        "text": "作者展示「嗡嗡怪兽」说明面板：每 1 点攻击力转为 1.8% 攻击速度，普攻另附魔法伤害攻击特效。由此优先选高攻击力装备来尽快堆攻速。换算值按原片当期面板记录，未做当前版本实机验证。"
+      },
+      {
+        "heading": "为什么能形成激光流",
+        "text": "作者用高攻速频繁触发薇恩 W 三环的真实伤害，再接收集者的斩杀效果，并称约四件装备时可以成型。开场 15 分钟、5.0 攻速是该片的成型展示，不是每局时间保证。"
+      },
+      {
+        "heading": "到上限后换构筑目标",
+        "text": "原片的顺序是先尽快达到攻速上限，再慢慢把装备换成攻击特效装备来提高伤害上限；不要把「先堆高攻击力」理解为封顶后仍持续堆同一种属性。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:26 嗡嗡怪兽的 1.8% 转换说明面板（打开原笔记后定位）",
+        "time": 26,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:32 高攻击力装备加速成型（打开原笔记后定位）",
+        "time": 32,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:38 W 三环、收集者与封顶后换装（打开原笔记后定位）",
+        "time": 38,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      }
+    ],
+    "image": "assets/frames/xhs-6aefe740-ad-to-speed.webp",
+    "fullImage": "assets/frames/xhs-6aefe740-ad-to-speed.jpg"
+  },
+  {
+    "id": "xhs-6aefe740-early-items-late-defense",
+    "bvid": "xhs-6aefe7400000000019001e1a",
+    "hero": "薇恩",
+    "title": "先守护者、收集者、破败，封顶后补吸血与双抗",
+    "summary": "前期利用攻击力转换和装备效果滚雪球，后期补饮血、红穿、无尽，再按攻速是否封顶调整。",
+    "category": "出装",
+    "tags": [
+      "薇恩",
+      "VN",
+      "嗡嗡怪兽",
+      "守护者",
+      "收集者",
+      "破败",
+      "饮血剑",
+      "红穿",
+      "无尽",
+      "攻击特效",
+      "锻体",
+      "全能吸血",
+      "双抗"
+    ],
+    "time": 66,
+    "timeLabel": "01:06–01:34",
+    "imageTime": 75,
+    "sections": [
+      {
+        "heading": "前期的三件方向",
+        "text": "作者明确给出守护者、收集者、破败的前期路线：守护者的攻击力转换用于早成型，收集者和破败的装备效果用于滚雪球。守护者保留作者原称，不从图标补成未展示的官方全名。"
+      },
+      {
+        "heading": "后期补什么",
+        "text": "原片字幕列出饮血、红穿、无尽，用高攻击力继续补足到 5.0 攻速。作者随后解释，直接从攻击特效装起手也能平滑过渡，但这类装备通常提供的攻击力较低，在他的构筑思路里到攻速上限会更慢。"
+      },
+      {
+        "heading": "锻体也按成型阶段调整",
+        "text": "作者最后建议先锻体攻击力；攻速到上限后，转为锻体全能吸血和双抗。前一张机制卡的后期换特效与这里的防御属性调整，都是以已经达到攻速上限为前提。"
+      }
+    ],
+    "references": [
+      {
+        "label": "01:06 守护者、收集者、破败的前期顺序（打开原笔记后定位）",
+        "time": 66,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:14 后期饮血、红穿、无尽（打开原笔记后定位）",
+        "time": 74,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:20 为何没有直接从攻击特效装备起手（打开原笔记后定位）",
+        "time": 80,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:29 锻体攻击力，封顶后改全能吸血与双抗（打开原笔记后定位）",
+        "time": 89,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      }
+    ],
+    "image": "assets/frames/xhs-6aefe740-early-items-late-defense.webp",
+    "fullImage": "assets/frames/xhs-6aefe740-early-items-late-defense.jpg"
+  },
+  {
+    "id": "xhs-6aefe740-three-hit-five-stack",
+    "bvid": "xhs-6aefe7400000000019001e1a",
+    "hero": "薇恩",
+    "title": "三击与五层联动：伤不过三、将他们放倒倒倒",
+    "summary": "高攻速用来加快连续命中与印记叠层，远程 VN 的放倒伤害不能直接套用近战示例。",
+    "category": "海克斯",
+    "tags": [
+      "薇恩",
+      "VN",
+      "嗡嗡怪兽",
+      "伤不过三",
+      "将他们放倒倒倒",
+      "将他们放倒",
+      "升级：收集者",
+      "巨人杀手",
+      "双刀流",
+      "台风",
+      "双发快射",
+      "最大生命值",
+      "已损生命值"
+    ],
+    "time": 15,
+    "timeLabel": "00:15–01:06",
+    "imageTime": 59,
+    "sections": [
+      {
+        "heading": "伤不过三的门槛",
+        "text": "作者说明，对同一目标在 4 秒内每普攻 3 次触发真实伤害，画面该段展示 3% 最大生命值伤害。其说明卡还包含叠层提高该强化伤害的效果；这里的 3% 取自原片该段展示，不当作任何层数下都固定不变的数值。"
+      },
+      {
+        "heading": "将他们放倒倒倒的门槛",
+        "text": "原片说明普攻和技能给敌方英雄叠加持续 5 秒的效果，对拥有 5 层效果的敌人造成伤害时消耗层数，引发已损生命值魔法伤害。作者口述近战约 17%、远程约 9%；远程画面面板里有 8.5% 的显示与取整，不能将近战数值直接套给 VN。高攻速的价值是更快叠层。"
+      },
+      {
+        "heading": "原片完整的选择分组",
+        "items": [
+          "核心：嗡嗡怪兽。作者重点联动：伤不过三、将他们放倒倒倒、升级：收集者。",
+          "备选：巨人杀手、双刀流、台风、双发快射。",
+          "上述是本片的选择清单，没有逐一给出当前版本胜率或所有组合的触发次数实测。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "label": "00:16 核心联动与升级收集者（打开原笔记后定位）",
+        "time": 16,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:22 备选海克斯完整表（打开原笔记后定位）",
+        "time": 22,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:47 伤不过三：4 秒内连续三次攻击（打开原笔记后定位）",
+        "time": 47,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:56 放倒五层说明与远近程数值区别（打开原笔记后定位）",
+        "time": 56,
+        "url": "https://www.xiaohongshu.com/explore/6aefe7400000000019001e1a?xsec_token=ABhSMZN4tEZ_YNDyqW45eblEv49BDJmxYWhkUHk2V0g4E=&xsec_source=pc_feed"
+      }
+    ],
+    "image": "assets/frames/xhs-6aefe740-three-hit-five-stack.webp",
+    "fullImage": "assets/frames/xhs-6aefe740-three-hit-five-stack.jpg"
+  },
+  {
+    "id": "xhs-6ae9969c-hive-bass-burst",
+    "bvid": "xhs-6ae9969c000000001a02421a",
+    "hero": "寒冰",
+    "title": "小蜜蜂＋低音轰鸣：把蜂巢的多段特效接成爆发",
+    "summary": "原片把小蜜蜂蜂巢的四段攻击特效与低音轰鸣联动，作为 AP 寒冰一箭爆发的核心。",
+    "category": "机制",
+    "tags": [
+      "寒冰",
+      "艾希",
+      "Ashe",
+      "小蜜蜂",
+      "小蜜蜂！！！",
+      "鼓声暴起 低音轰鸣",
+      "低音轰鸣",
+      "蜂巢",
+      "攻击特效",
+      "AP",
+      "R",
+      "魔法伤害"
+    ],
+    "time": 19,
+    "timeLabel": "00:19–00:29",
+    "imageTime": 24,
+    "sections": [
+      {
+        "heading": "核心组合先到位",
+        "text": "作者明确说小蜜蜂的蜂巢自带 4 次攻击特效，每一段都能单独触发低音轰鸣的伤害，叠出一箭爆发。这里记录原片对这项交互的说明，没有把它扩展成所有攻击特效都必然触发四次的结论。"
+      },
+      {
+        "heading": "低音轰鸣的说明卡",
+        "text": "画面准确名为「鼓声暴起 低音轰鸣」：施放技能后，6 秒内的下一次攻击获得强化，带额外魔法伤害，并提供短时衰减的移动速度。本片围绕它与蜂巢的攻击特效交互构筑。"
+      },
+      {
+        "heading": "伤害展示怎样看",
+        "text": "开场展示一箭接近 3000 伤害，以及对方复活后再次被击杀的场景，属于该局成型效果。核心是两项强化的联动，不能把开场数字当成固定基础伤害或当前版本的必杀线。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:20 蜂巢的四次攻击特效（打开原笔记后定位）",
+        "time": 20,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:23 每段特效触发低音轰鸣及说明卡（打开原笔记后定位）",
+        "time": 23,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:07 开场一箭伤害与复活击杀示例（打开原笔记后定位）",
+        "time": 7,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      }
+    ],
+    "image": "assets/frames/xhs-6ae9969c-hive-bass-burst.webp",
+    "fullImage": "assets/frames/xhs-6ae9969c-hive-bass-burst.jpg"
+  },
+  {
+    "id": "xhs-6ae9969c-respawn-arrow-timing",
+    "bvid": "xhs-6ae9969c000000001a02421a",
+    "hero": "寒冰",
+    "title": "R 对齐复活时间：计入冷却与飞行距离",
+    "summary": "原片用后期约 30 秒的 R 间隔衔接对方复活，并从己方泉水中心提前发箭，安排落点时间。",
+    "category": "操作",
+    "tags": [
+      "寒冰",
+      "艾希",
+      "Ashe",
+      "小蜜蜂",
+      "低音轰鸣",
+      "R",
+      "魔法水晶箭",
+      "复活时间",
+      "泉水",
+      "7.5秒",
+      "冷却",
+      "城邦"
+    ],
+    "time": 28,
+    "timeLabel": "00:28–00:52",
+    "imageTime": 49,
+    "sections": [
+      {
+        "heading": "先对齐下一次复活",
+        "text": "作者以满级大招基础冷却 55 秒、城邦加持下后期压到约 30 秒作说明，希望 R 的循环与后期复活时间对上。实战要看本局敌方复活倒计时来安排下一箭，而不是一到冷却就随意发射。数值取自原片当时的环境。"
+      },
+      {
+        "heading": "发射时间还要算飞行时间",
+        "text": "原片给出的参照是站在己方泉水中心开 R，约 7.5 秒抵达对方泉水，再与复活时点配合。7.5 秒对应作者演示的地图与起点，不作为任何距离下的固定飞行时长。"
+      },
+      {
+        "heading": "循环成立的前提",
+        "text": "这条操作卡承接小蜜蜂＋低音轰鸣的成型伤害，再叠加足够冷却与命中落点。原片没有展示所有敌方防装、位移或复活保护情形都可被持续秒杀。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:28 作者展示满级 R 基础 55 秒冷却（打开原笔记后定位）",
+        "time": 28,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:35 约 30 秒的 R 与后期复活时间（打开原笔记后定位）",
+        "time": 35,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:40 把 R 时机对齐对方复活（打开原笔记后定位）",
+        "time": 40,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:46 己方泉水中心与约 7.5 秒飞行参照（打开原笔记后定位）",
+        "time": 46,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      }
+    ],
+    "image": "assets/frames/xhs-6ae9969c-respawn-arrow-timing.webp",
+    "fullImage": "assets/frames/xhs-6ae9969c-respawn-arrow-timing.jpg"
+  },
+  {
+    "id": "xhs-6ae9969c-ap-build-order",
+    "bvid": "xhs-6ae9969c000000001a02421a",
+    "hero": "寒冰",
+    "title": "爆发流出装顺序：纳什、残疫、视界专注先过渡",
+    "summary": "前期用攻击特效、减抗和增伤衔接核心强化，后期补蜕生、帽子、影焰；这套是未拿到冷却类强化的爆发分支。",
+    "category": "出装",
+    "tags": [
+      "寒冰",
+      "艾希",
+      "Ashe",
+      "AP",
+      "小蜜蜂",
+      "低音轰鸣",
+      "纳什之牙",
+      "残疫",
+      "视界专注",
+      "蜕生",
+      "帽子",
+      "影焰",
+      "冷却",
+      "EZ贴纸"
+    ],
+    "time": 60,
+    "timeLabel": "01:00–01:39",
+    "imageTime": 85,
+    "sections": [
+      {
+        "heading": "原片强调先后三件",
+        "text": "前期优先纳什之牙、残疫、视界专注。作者分别用纳什的攻击特效、残疫减抗、视界专注增伤，解释它们怎样配合小蜜蜂和低音轰鸣，让 AP 寒冰平稳过渡。"
+      },
+      {
+        "heading": "后期补伤害的三件",
+        "text": "原片随后列出蜕生、帽子、影焰。85 秒完整图展示六件组合：视界专注、残疫、纳什之牙、蜕生、帽子、影焰；按前面的口播顺序理解购买路线，不把图上排列位置改成先后顺序。"
+      },
+      {
+        "heading": "没有冷却类强化才照这个爆发分支",
+        "text": "作者明确补充，这套用于没有拿到冷却类海克斯的爆发流。能刷到减 CD 强化时应优先考虑；CD 足够后，他又提出可用 EZ 贴纸补双属性。原片没展示这张贴纸的具体正式名称及选取流程，因此保留「EZ 贴纸」原称。"
+      }
+    ],
+    "references": [
+      {
+        "label": "01:02 前期纳什、残疫、视界专注（打开原笔记后定位）",
+        "time": 62,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:05 三件装备的特效、减抗与增伤（打开原笔记后定位）",
+        "time": 65,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:13 后期蜕生、帽子、影焰（打开原笔记后定位）",
+        "time": 73,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:25 完整六件图及无冷却强化的分支说明（打开原笔记后定位）",
+        "time": 85,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:33 CD 足够后改用 EZ 贴纸的补充（打开原笔记后定位）",
+        "time": 93,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      }
+    ],
+    "image": "assets/frames/xhs-6ae9969c-ap-build-order.webp",
+    "fullImage": "assets/frames/xhs-6ae9969c-ap-build-order.jpg"
+  },
+  {
+    "id": "xhs-6ae9969c-sorcerer-cooldown-branch",
+    "bvid": "xhs-6ae9969c000000001a02421a",
+    "hero": "寒冰",
+    "title": "拿到术师后：把低音带来的攻速转成技能急速",
+    "summary": "术师是进一步提高大招频率的条件分支；王冠之重与术师在作者理想清单里，不是基础两张强化以外的必得条件。",
+    "category": "海克斯",
+    "tags": [
+      "寒冰",
+      "艾希",
+      "Ashe",
+      "小蜜蜂",
+      "低音轰鸣",
+      "鼓声暴起",
+      "纯粹主义者 - 术师",
+      "纯粹主义者",
+      "术师",
+      "术士",
+      "王冠之重",
+      "男爵之手",
+      "科学狂人",
+      "物理转魔法",
+      "尤里卡",
+      "技能急速",
+      "攻速"
+    ],
+    "time": 51,
+    "timeLabel": "00:51–01:34",
+    "imageTime": 84,
+    "sections": [
+      {
+        "heading": "先有术师才谈属性转换",
+        "text": "原片清晰卡面写「纯粹主义者 - 术师」：获得百分比冷却缩减，并将所有攻击速度转化为技能急速。作者口述低音轰鸣触发后的增益接近 200% 攻速，配术师后再放 W 或 E，能换到约 130 技能急速，进一步提高大招频率。这些数值是原片对该联动的说明，未做当前实机复测。"
+      },
+      {
+        "heading": "作者的理想四张",
+        "text": "小蜜蜂、低音轰鸣、王冠之重、术师。基础玩法围绕前两张展开；后两张是作者给出的理想补强，不应把「凑齐四张」当作前面出装路线能玩的最低条件。"
+      },
+      {
+        "heading": "备选与优先级",
+        "items": [
+          "备选表：男爵之手、科学狂人、物理转魔法、尤里卡。",
+          "作者最后强调，能刷出冷却类海克斯时优先考虑，主要用于提高 R 的频率。",
+          "术师的正式字样按画面保留；口播及旧库常用「术士」一并作为搜索词。"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "label": "00:52 低音增益与术师冷却分支（打开原笔记后定位）",
+        "time": 52,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:57 术师准确卡面与 W／E 的说明（打开原笔记后定位）",
+        "time": 57,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:17 四张理想海克斯（打开原笔记后定位）",
+        "time": 77,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:21 备选男爵、科学狂人、物转法、尤里卡（打开原笔记后定位）",
+        "time": 81,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:30 作者优先减 CD 强化的补充（打开原笔记后定位）",
+        "time": 90,
+        "url": "https://www.xiaohongshu.com/explore/6ae9969c000000001a02421a?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfSoWfKDafs4UUAbdvdnrFDw=&xsec_source=pc_feed"
+      }
+    ],
+    "image": "assets/frames/xhs-6ae9969c-sorcerer-cooldown-branch.webp",
+    "fullImage": "assets/frames/xhs-6ae9969c-sorcerer-cooldown-branch.jpg"
+  },
+  {
+    "id": "xhs-6ae801f8-crown-hunger-growth",
+    "bvid": "xhs-6ae801f8000000001803ba6f",
+    "hero": "德莱文",
+    "title": "王冠＋无穷饥渴：把助攻成长接成远程施法",
+    "summary": "先参与击杀叠王冠，再把攻击力转入急速，降低后期对移动输出的依赖。",
+    "category": "机制",
+    "tags": [
+      "德莱文",
+      "荣耀行刑官",
+      "居家办公",
+      "王冠之重",
+      "无穷饥渴",
+      "攻击力",
+      "技能急速",
+      "叠层",
+      "死亡掉层"
+    ],
+    "time": 12,
+    "timeLabel": "00:12–00:30",
+    "image": "assets/frames/xhs-6ae801f8-crown-hunger-growth.webp",
+    "fullImage": "assets/frames/xhs-6ae801f8-crown-hunger-growth.jpg",
+    "imageTime": 16,
+    "sections": [
+      {
+        "heading": "成长怎样连接冷却",
+        "text": "王冠之重靠参与击杀叠层，提高额外攻击力等属性；无穷饥渴把高攻击力接入技能急速，作者据此转为在安全位置反复远程放 R。它仍需要先积累属性，并非拿到王冠当场就拥有满成型频率。"
+      },
+      {
+        "heading": "王冠数值以画面区分",
+        "text": "原片提示框写初始提升 10%，每层额外提升 5% 的额外攻击力、额外法强和总攻速；口播及字幕却将每层简述成 10%，两者存在冲突，不能把初始加成当每层增幅。"
+      },
+      {
+        "heading": "代价与玩法目的",
+        "text": "卡面说明移动速度降低、阵亡损失一半层数。作者用后期泉水施法来减少移动速度和阵亡代价，但前期仍要通过正常参战拿到成长。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:12 · 王冠是核心强化",
+        "time": 12,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:16 · 王冠提示框与参与击杀叠层",
+        "time": 16,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:20 · 无穷饥渴连接高攻击力与急速",
+        "time": 20,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:25 · 移速降低及阵亡掉层",
+        "time": 25,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      }
+    ]
+  },
+  {
+    "id": "xhs-6ae801f8-crit-r-with-w",
+    "bvid": "xhs-6ae801f8000000001803ba6f",
+    "hero": "德莱文",
+    "title": "先让 R 能暴击，再用大腕＋W 增伤",
+    "summary": "珠光护手或珠光手镯提供暴击入口，大腕分支还要求放 R 时同步 W。",
+    "category": "海克斯",
+    "tags": [
+      "德莱文",
+      "R",
+      "冷血追命",
+      "W",
+      "血性冲刺",
+      "珠光护手",
+      "珠光手镯",
+      "大腕",
+      "旋转致胜",
+      "额外攻击力",
+      "暴击伤害"
+    ],
+    "time": 30,
+    "timeLabel": "00:30–00:58",
+    "image": "assets/frames/xhs-6ae801f8-crit-r-with-w.webp",
+    "fullImage": "assets/frames/xhs-6ae801f8-crit-r-with-w.jpg",
+    "imageTime": 51,
+    "sections": [
+      {
+        "heading": "R 为什么吃高攻击力",
+        "text": "原片 R 提示框显示满级有 150% 额外攻击力加成，且是往返两段的物理伤害。王冠成长能提高伤害，但实际命中和目标防御仍影响结果，开头的高额伤害是作者本局展示。"
+      },
+      {
+        "heading": "暴击入口不能省",
+        "text": "作者要求再联动珠光护手或珠光手镯之一，让 R 可以暴击。大腕提供暴击伤害并不自动等于 R 已能暴击，两类条件应先后区分。"
+      },
+      {
+        "heading": "有大腕时的按键条件",
+        "text": "大腕卡面将 75% 攻速转为暴击伤害。作者利用满级 W 的 40% 攻速，明确要求开大招时同步开启 W；不能把 W 的临时加成写成不按技能也常驻。"
+      },
+      {
+        "heading": "白色强化的补充",
+        "text": "原片另推荐旋转致胜来增加大招伤害。它属于补充增伤项，不替代王冠成长、装备冷却或技能暴击入口。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:30 · R 满级额外攻击力加成与往返伤害",
+        "time": 30,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:39 · 珠光护手或珠光手镯",
+        "time": 39,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:45 · 大腕与满级 W",
+        "time": 45,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:50 · 大招时同步开启 W",
+        "time": 50,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:55 · 旋转致胜的补充",
+        "time": 55,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      }
+    ]
+  },
+  {
+    "id": "xhs-6ae801f8-ad-transition-three-builds",
+    "bvid": "xhs-6ae801f8000000001803ba6f",
+    "hero": "德莱文",
+    "title": "先正常 AD 发育，再转公理圆弧＋无穷饥渴",
+    "summary": "关键强化到来后才换居家组件，三套装备图对应不同选卡分支。",
+    "category": "出装",
+    "tags": [
+      "德莱文",
+      "公理圆弧",
+      "无穷饥渴",
+      "AD过渡",
+      "王冠之重",
+      "亮出你的剑",
+      "亮剑",
+      "常规套",
+      "大腕套",
+      "巨人杀手",
+      "科学狂人",
+      "魔法转物理",
+      "命运之武器"
+    ],
+    "time": 64,
+    "timeLabel": "01:04–01:23",
+    "image": "assets/frames/xhs-6ae801f8-ad-transition-three-builds.webp",
+    "fullImage": "assets/frames/xhs-6ae801f8-ad-transition-three-builds.jpg",
+    "imageTime": 80,
+    "sections": [
+      {
+        "heading": "不要过早退出发育",
+        "text": "作者建议前期正常 AD 出装、积极获取经济，后期关键强化到位后，再补公理圆弧与无穷饥渴，转向大招施法。不是开局就站泉水等待成长。"
+      },
+      {
+        "heading": "三张装备参考图的区别",
+        "text": "80 秒完整推荐图分成亮剑套、常规套和大腕套，均能回看原片图示。本卡保留这张整图作为装备参考；作者没有逐件口播每套六件装备的固定购买顺序，不据图自行扩写新的强制顺序。"
+      },
+      {
+        "heading": "选卡池怎样使用",
+        "text": "主轴为王冠之重，增伤联动为珠光护手或珠光手镯及大腕；备选表还列旋转致胜、巨人杀手、科学狂人、魔法转物理、命运之武器、亮出你的剑。它们是分支选择，不能假设一局全部同时取得。"
+      },
+      {
+        "heading": "冷却参考的口径",
+        "text": "作者在前段以满级 R 80 秒基础冷却、公理圆弧及其他急速，描述后期约 30 秒一个大招；后续王冠成长还可经无穷饥渴继续影响频率。这是原片的成型描述，不是所有装备与层数下固定 30 秒。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:34 · 公理圆弧及额外急速",
+        "time": 34,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:38 · 原片字幕：约 30 秒一个大招",
+        "time": 38,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:04 · 前期正常 AD 发育",
+        "time": 64,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:06 · 关键强化到位后再补两件组件",
+        "time": 66,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:09 · 主轴与备选海克斯表",
+        "time": 69,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:19 · 亮剑、常规、大腕三套装备图",
+        "time": 79,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      }
+    ]
+  },
+  {
+    "id": "xhs-6ae801f8-fountain-arrival-timing",
+    "bvid": "xhs-6ae801f8000000001803ba6f",
+    "hero": "德莱文",
+    "title": "泉水中心预判：用飞行时间压对方复活",
+    "summary": "原片以约 7.5 秒到达对方泉水为参考，强调站位与提前量。",
+    "category": "操作",
+    "tags": [
+      "德莱文",
+      "居家办公",
+      "R",
+      "泉水中心",
+      "复活时间",
+      "压起身",
+      "飞行时间",
+      "远程大招",
+      "7.5秒"
+    ],
+    "time": 83,
+    "timeLabel": "01:23–01:35",
+    "image": "assets/frames/xhs-6ae801f8-fountain-arrival-timing.webp",
+    "fullImage": "assets/frames/xhs-6ae801f8-fountain-arrival-timing.jpg",
+    "imageTime": 91,
+    "sections": [
+      {
+        "heading": "作者的具体站位",
+        "text": "原片要求站在己方泉水中间，沿地图方向提前释放 R，用来在远处清兵、参与击杀并继续叠王冠。站位是这次飞行时间参考的一部分。"
+      },
+      {
+        "heading": "7.5 秒指什么",
+        "text": "作者称该站位下，大招约 7.5 秒飞到对方泉水，借此预判对面复活时点。“7.5 秒”指飞行提前量，不是 R 的技能冷却；换站位、方向或版本后应重新观察。"
+      },
+      {
+        "heading": "连续压起身仍有前提",
+        "text": "只有后期伤害与冷却已经到位，作者才提出反复压复活。标题里的斩杀描述本局击杀效果，不能据此保证所有英雄刚复活都必死，也不能省略大招需要实际命中的条件。"
+      }
+    ],
+    "references": [
+      {
+        "label": "01:23 · 成型后清兵及参与击杀",
+        "time": 83,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:28 · 站在泉水中间",
+        "time": 88,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:29 · 约 7.5 秒飞至对方泉水",
+        "time": 89,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:33 · 后期冷却足够后的压起身",
+        "time": 93,
+        "url": "https://www.xiaohongshu.com/explore/6ae801f8000000001803ba6f?xsec_token=ABue8EovZPe7DdDEtcJ8U-JcDJ7f2L0ZQ1nBbTuegrGmc=&xsec_source=pc_feed"
+      }
+    ]
+  },
+  {
+    "id": "xhs-6ae9aa3b-ap-w-scaling",
+    "bvid": "xhs-6ae9aa3b000000000e036d51",
+    "hero": "大嘴",
+    "title": "主 E 副 W：前期清线过渡，后期放大 W 的法强收益",
+    "summary": "作者用 E 清线兼消耗过渡，后期围绕 W 的最大生命值魔法伤害堆法强，并增加 W 攻击特效的触发次数。",
+    "category": "操作",
+    "tags": [
+      "大嘴",
+      "克格莫",
+      "深渊巨口",
+      "KogMaw",
+      "AP大嘴",
+      "E",
+      "W",
+      "主E副W",
+      "法强",
+      "最大生命值",
+      "攻击特效",
+      "清线",
+      "生化弹幕"
+    ],
+    "time": 35,
+    "timeLabel": "00:35–01:13",
+    "image": "assets/frames/xhs-6ae9aa3b-ap-w-scaling.webp",
+    "fullImage": "assets/frames/xhs-6ae9aa3b-ap-w-scaling.jpg",
+    "imageTime": 69,
+    "versionNote": "2026-11-04 小红书原片；按当时配音、卡牌与实战画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "技能加点与前期过渡",
+        "items": [
+          "作者明确推荐主 E、副 W。",
+          "前期用 E 清理兵线，顺带消耗敌人；原片还提到利用阵亡后的被动自爆收取人头，这是作者给出的过渡方式。"
+        ]
+      },
+      {
+        "heading": "后期为什么堆法强",
+        "text": "W 的额外伤害与法强有关。原片 69 秒处的 W 技能说明展示最大生命值魔法伤害，并写明效果持续 8 秒；本片讨论的是围绕 W 这段生效期内的攻击特效构筑，而不是只靠技能面板直接伤害。"
+      },
+      {
+        "heading": "本局面板示例",
+        "text": "原片后期 W 面板显示约 20.02% 最大生命值魔法伤害，作者据此强调法强和多次触发 W 的价值。这个百分比来自片中已经成型的装备、强化和属性，不是所有 AP 大嘴开局就有的固定数值。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:35 · 主 E 副 W 与前期清线",
+        "time": 35,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:40 · 后期用装备触发多段 W",
+        "time": 40,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:09 · W 面板、法强收益与 8 秒持续期",
+        "time": 69,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      }
+    ]
+  },
+  {
+    "id": "xhs-6ae9aa3b-dusk-dawn-build",
+    "bvid": "xhs-6ae9aa3b000000000e036d51",
+    "hero": "大嘴",
+    "title": "出装：黄昏与黎明起步，再补影焰、帽子与法穿",
+    "summary": "原片将黄昏与黎明作为核心，以多次触发 W 为目标；后续用影焰、帽子、法穿棒补伤害，金身补生存窗口。",
+    "category": "出装",
+    "tags": [
+      "大嘴",
+      "克格莫",
+      "深渊巨口",
+      "KogMaw",
+      "AP大嘴",
+      "黄昏与黎明",
+      "影焰",
+      "帽子",
+      "灭世者的死亡之帽",
+      "法穿棒",
+      "金身",
+      "中娅沙漏",
+      "法穿鞋",
+      "多段W"
+    ],
+    "time": 17,
+    "timeLabel": "00:17–00:35",
+    "image": "assets/frames/xhs-6ae9aa3b-dusk-dawn-build.webp",
+    "fullImage": "assets/frames/xhs-6ae9aa3b-dusk-dawn-build.jpg",
+    "imageTime": 35,
+    "versionNote": "2026-11-04 小红书原片；按当时配音、卡牌与实战画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "原片装备顺序",
+        "items": [
+          "第一件黄昏与黎明，作者称其可让这一构筑触发两次 W。",
+          "第二件影焰，作者用于增强斩杀能力。",
+          "第三件帽子，提高法强并增加 W 的百分比伤害。",
+          "后续补法穿棒、金身；法穿鞋在经济合适时补。35 秒处画面展示完整六件图标。"
+        ]
+      },
+      {
+        "heading": "AP 装备仍围绕攻击特效输出",
+        "text": "作者强调要频繁使用普攻，配合黄昏与黎明触发 W；这套 AP 出装并不是放弃普攻只丢技能。法强决定 W 附伤的收益，攻击特效触发次数决定能打出多少段。"
+      },
+      {
+        "heading": "装备触发的说明边界",
+        "text": "“两次 W”沿用作者在本片的装备联动表述。视频没有展开黄昏与黎明的完整装备说明和内部触发限制，因此不把它扩写为任何时候每次普攻都固定结算两次完整 W。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:17 · 黄昏与黎明为核心，普攻触发 W",
+        "time": 17,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:22 · 第一件到第三件的出装说明",
+        "time": 22,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:30 · 法穿棒、金身与法穿鞋",
+        "time": 30,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      }
+    ]
+  },
+  {
+    "id": "xhs-6ae9aa3b-bee-onhit",
+    "bvid": "xhs-6ae9aa3b000000000e036d51",
+    "hero": "大嘴",
+    "title": "小蜜蜂！！！：技能命中英雄后，用附带特效追加 W",
+    "summary": "原片把小蜜蜂列为最高优先级；它在触发间隔后，由下一次命中敌方英雄的技能启动，并附带攻击特效。",
+    "category": "海克斯",
+    "tags": [
+      "大嘴",
+      "克格莫",
+      "深渊巨口",
+      "KogMaw",
+      "AP大嘴",
+      "小蜜蜂",
+      "小蜜蜂！！！",
+      "W",
+      "攻击特效",
+      "技能命中",
+      "敌方英雄",
+      "魔法伤害",
+      "减速"
+    ],
+    "time": 45,
+    "timeLabel": "00:45–00:54",
+    "image": "assets/frames/xhs-6ae9aa3b-bee-onhit.webp",
+    "fullImage": "assets/frames/xhs-6ae9aa3b-bee-onhit.jpg",
+    "imageTime": 49,
+    "versionNote": "2026-11-04 小红书原片；按当时配音、卡牌与实战画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "实际卡面给出的触发条件",
+        "items": [
+          "卡牌名称就是「小蜜蜂！！！」。",
+          "每过一段时间，下一次命中敌方英雄的技能会发射小蜜蜂，在短时间里造成魔法伤害和减速。",
+          "卡面明确注明小蜜蜂附带攻击特效，这是它与大嘴 W 联动的依据。"
+        ]
+      },
+      {
+        "heading": "为什么本片优先选它",
+        "text": "作者称小蜜蜂可以触发四次 W，并强调小蜜蜂本身的基础伤害也很可观。四次 W 是作者对该片联动的说明；视频卡面没有展示具体触发间隔秒数，不能改写成每个技能无间隔地固定追加四次完整 W。"
+      },
+      {
+        "heading": "实际使用时查两个前提",
+        "text": "先满足小蜜蜂自身的间隔条件，再让技能命中敌方英雄；同时关注 W 的生效窗口，才能围绕本片所说的 W 攻击特效构筑。触发对象按卡面是敌方英雄，没有依据扩大成命中小兵也会启动。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:44 · 作者说明海克斯是核心",
+        "time": 44,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:47 · 小蜜蜂优先级与四次 W 的口播",
+        "time": 47,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:49 · 小蜜蜂卡面：英雄命中、间隔与攻击特效",
+        "time": 49,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      }
+    ]
+  },
+  {
+    "id": "xhs-6ae9aa3b-extra-onhit-hexes",
+    "bvid": "xhs-6ae9aa3b000000000e036d51",
+    "hero": "大嘴",
+    "title": "其他补强：虚幻武器、低音轰鸣与双刀流各管一段触发",
+    "summary": "虚幻武器把技能接入 W 攻击特效，低音轰鸣加快施法后的下一击，双刀流再增加额外攻击特效；各自限制按卡面保留。",
+    "category": "海克斯",
+    "tags": [
+      "大嘴",
+      "克格莫",
+      "深渊巨口",
+      "KogMaw",
+      "AP大嘴",
+      "虚幻武器",
+      "鼓声暴起",
+      "低音轰鸣",
+      "鼓声暴起·低音轰鸣",
+      "双刀流",
+      "黄昏与黎明",
+      "W",
+      "攻击特效",
+      "法强"
+    ],
+    "time": 53,
+    "timeLabel": "00:53–01:05",
+    "image": "assets/frames/xhs-6ae9aa3b-extra-onhit-hexes.webp",
+    "fullImage": "assets/frames/xhs-6ae9aa3b-extra-onhit-hexes.jpg",
+    "imageTime": 60,
+    "versionNote": "2026-11-04 小红书原片；按当时配音、卡牌与实战画面整理，未作当前版本游戏实测。",
+    "sections": [
+      {
+        "heading": "虚幻武器：让其他技能也触发特效",
+        "text": "作者推荐虚幻武器，是因为其他技能也能触发 W。原片 54 秒卡面同时写明：技能施加攻击特效，对每个目标有 1 秒冷却。这个目标内冷却需要一起保留，不能理解为任意多段技能都能无间隔重复触发。"
+      },
+      {
+        "heading": "鼓声暴起·低音轰鸣：施法衔接下一击",
+        "text": "作者口头概括为放技能重置普攻；实际卡面写的是施放技能后下一次攻击更快，造成额外魔法伤害并短暂提供移速。按卡面理解为施法后加快下一击，不据此宣称所有情况下都完全清零普攻间隔。"
+      },
+      {
+        "heading": "双刀流：追加攻击特效，但有衰减",
+        "text": "双刀流卡面写明，攻击时发射额外攻击，并施加效能削减后的攻击特效。作者称其配合黄昏与黎明一次可以触发三次 W；这里保留为该片联动结论，不能把每一段都当作未经衰减的完整 W。"
+      },
+      {
+        "heading": "其余强化的方向",
+        "text": "作者最后建议其他海克斯围绕法强选择。原片没有给出完整的法强强化名称列表，也没有要求这三张补强必须同局拿齐。"
+      }
+    ],
+    "references": [
+      {
+        "label": "00:54 · 虚幻武器与每目标 1 秒冷却",
+        "time": 54,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "00:58 · 鼓声暴起·低音轰鸣卡面",
+        "time": 58,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:00 · 双刀流与黄昏与黎明联动",
+        "time": 60,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
+      },
+      {
+        "label": "01:03 · 其他强化围绕法强选择",
+        "time": 63,
+        "url": "https://www.xiaohongshu.com/explore/6ae9aa3b000000000e036d51?xsec_token=AB_pm6Tw5qfpNssnbA3VmXfZz9BBNzYyE_qFRnFvoryyE=&xsec_source=pc_feed"
       }
     ]
   }
